@@ -1,0 +1,2640 @@
+"name","designation","salary","past_exp"
+"ANNIE","Associate",89207,7
+"OLIVE","Analyst",40955,0
+"CHERRY","Analyst",45550,0
+"LEON","Analyst",43161,3
+"VICTORIA","Analyst",48736,0
+"ELLIOT","Analyst",40339,0
+"JACQUES","Analyst",40058,2
+"KATHY","Senior Analyst",63478,1
+"LILIAN","Analyst",43110,0
+"BELLE","Analyst",41590,1
+"VIRGIL","Senior Manager",160613,9
+"WELDON","Analyst",44828,1
+"BOYD","Analyst",45830,0
+"BART","Analyst",43457,1
+"CORINNE","Analyst",44812,0
+"ALONZO","Analyst",47636,2
+"ROYCE","Analyst",48651,1
+"BURTON","Analyst",40411,0
+"PHILLIP","Analyst",44665,0
+"ORVILLE","Analyst",46941,1
+"KORY","Analyst",47734,0
+"NETTIE","Analyst",40541,1
+"WENDI","Analyst",43920,2
+"BRENT","Analyst",45832,0
+"HARRIETTE","Analyst",48102,0
+"GARLAND","Analyst",48662,0
+"OSWALDO","Analyst",49685,1
+"SEYMOUR","Senior Analyst",57488,0
+"ROXANNE","Analyst",45410,0
+"CLAUD","Analyst",43030,0
+"MARIANNA","Analyst",42388,0
+"FOSTER","Senior Analyst",68295,3
+"MAUDIE","Associate",73397,2
+"TORI","Analyst",47008,0
+"KELLEY","Analyst",49898,1
+"HILLARY","Analyst",45389,1
+"MICKEY","Analyst",49326,0
+"ROSIE","Analyst",49901,0
+"GAVIN","Analyst",42529,2
+"ANNABELLE","Analyst",44448,2
+"CHRISTINE","Senior Manager",175497,13
+"MELODIE","Analyst",47739,2
+"MICHELL","Analyst",49046,2
+"ANDREW","Analyst",47961,2
+"LUCRETIA","Associate",96378,5
+"JODY","Associate",76411,9
+"GILDA","Analyst",40264,0
+"JOSPEH","Analyst",45364,0
+"KING","Analyst",42013,0
+"KURT","Analyst",42362,2
+"LYNNETTE","Analyst",44620,2
+"DANIELA","Analyst",43285,1
+"CARI","Senior Analyst",66338,5
+"ANGELITA","Analyst",46436,2
+"ISABELLE","Analyst",49705,0
+"NORBERT","Analyst",40095,0
+"PAULINE","Senior Analyst",61647,3
+"JANETTE","Analyst",42811,0
+"CHARLENE","Analyst",47365,2
+"HOWARD","Analyst",45721,0
+"PAUL","Analyst",49976,1
+"CORTEZ","Analyst",42650,0
+"AHMAD","Analyst",44632,3
+"JONAH","Analyst",48389,3
+"DARIN","Analyst",48665,0
+"ALONSO","Associate",72886,6
+"RENE","Analyst",45225,0
+"RILEY","Senior Analyst",60712,0
+"WYATT","Analyst",41290,1
+"KIMBERLEE","Analyst",44993,0
+"KRISTA","Analyst",46118,1
+"MARYJANE","Senior Analyst",65212,1
+"SAVANNAH","Senior Manager",193621,9
+"NATALIE","Analyst",44223,0
+"MARY","Senior Analyst",53339,1
+"KAYLA","Analyst",43638,1
+"JULIAN","Analyst",44963,0
+"JO","Analyst",42686,0
+"KASEY","Analyst",40381,0
+"IONA","Analyst",48461,0
+"ALBERTA","Analyst",46584,1
+"WILMER","Senior Analyst",50739,0
+"MELVIN","Associate",82083,5
+"CORA","Analyst",40324,1
+"EVERETT","Analyst",44001,1
+"DOTTIE","Analyst",43059,0
+"CORINE","Analyst",41685,2
+"DARIO","Associate",95982,0
+"HILDA","Analyst",44699,0
+"ELOISA","Senior Analyst",52690,3
+"HEIDI","Analyst",40041,0
+"KATELYN","Senior Analyst",56314,3
+"WILLIS","Analyst",49785,2
+"RUTH","Analyst",41284,1
+"JOSEFA","Analyst",40562,0
+"OSCAR","Analyst",46741,0
+"ROOSEVELT","Analyst",45100,1
+"MARVIN","Analyst",41712,0
+"MARCELLA","Analyst",47069,1
+"KARL","Analyst",40460,1
+"WALTER","Analyst",47068,0
+"ELIZA","Senior Analyst",50813,0
+"YONG","Manager",129191,3
+"CARI","Senior Analyst",66338,5
+"ALVA","Analyst",46749,2
+"REINA","Manager",108665,6
+"ERICKA","Associate",76964,5
+"LUIGI","Analyst",47417,1
+"JEFFEREY","Analyst",47669,0
+"ROBERT","Analyst",40318,0
+"HAYWOOD","Analyst",46743,0
+"STAN","Analyst",40060,2
+"BETTIE","Analyst",46129,2
+"ALLAN","Senior Manager",189435,10
+"ELEANORE","Senior Analyst",62537,0
+"ERIC","Analyst",44145,1
+"LEIGH","Analyst",47998,0
+"ARON","Analyst",49310,2
+"KAREN","Analyst",49235,1
+"KENDRICK","Senior Analyst",68245,0
+"LAKESHA","Analyst",47498,1
+"JUNIOR","Analyst",40636,3
+"ERNESTINE","Analyst",45233,1
+"TERESITA","Senior Analyst",53275,4
+"ESTHER","Analyst",43540,1
+"BERRY","Analyst",40275,0
+"WENDELL","Analyst",44361,0
+"RUBEN","Analyst",41936,1
+"PATTIE","Analyst",45830,0
+"ISABEL","Analyst",44521,0
+"BRODERICK","Analyst",45997,0
+"JEREMY","Analyst",44218,2
+"KELLI","Manager",140926,12
+"MARIETTA","Analyst",48886,0
+"CHADWICK","Analyst",49081,1
+"NONA","Analyst",42195,0
+"JON","Senior Analyst",50130,0
+"JORDON","Senior Analyst",55472,0
+"LAWRENCE","Analyst",43269,1
+"LEANNE","Analyst",43712,0
+"LES","Analyst",42377,3
+"DEIDRA","Senior Analyst",69316,0
+"GERI","Analyst",46418,0
+"MANUAL","Senior Analyst",65566,5
+"CELESTINE","Analyst",48976,1
+"JAVIER","Analyst",43760,0
+"CAREN","Analyst",41047,0
+"DEBBIE","Analyst",43225,2
+"MICHAEL","Analyst",42361,0
+"HESTER","Analyst",47326,2
+"ULYSSES","Senior Analyst",61221,0
+"INES","Analyst",42943,0
+"JESSE","Analyst",48751,0
+"CLAY","Analyst",42136,0
+"MERCEDES","Analyst",42472,0
+"BRANDON","Analyst",46677,0
+"BILL","Analyst",45977,3
+"ALFREDO","Analyst",41345,3
+"NICOLE","Director",323196,10
+"GOLDIE","Analyst",42727,0
+"ELIAS","Senior Analyst",53218,0
+"SUN","Analyst",48422,0
+"BOOKER","Associate",83066,6
+"LEEANN","Analyst",41627,0
+"DEREK","Director",388112,18
+"DAWN","Analyst",44469,0
+"SHELTON","Analyst",41109,2
+"LEOPOLDO","Analyst",43924,1
+"DARREN","Senior Analyst",64232,2
+"ARMANDO","Analyst",49644,0
+"DELPHINE","Director",284733,11
+"IDA","Analyst",48802,0
+"ALECIA","Analyst",41748,0
+"JUAN","Senior Analyst",61575,1
+"YOLANDA","Analyst",46062,1
+"EMMA","Analyst",40251,1
+"OCTAVIO","Analyst",42416,0
+"LEILA","Analyst",43951,0
+"CECIL","Analyst",47903,2
+"CHARLES","Analyst",45275,0
+"FELIX","Senior Analyst",61046,1
+"JAQUELINE","Analyst",48204,2
+"GALE","Senior Analyst",51053,1
+"FRANCIS","Analyst",42560,0
+"TAMMI","Analyst",40947,3
+"LOUELLA","Senior Analyst",68432,0
+"JOYCE","Analyst",44561,1
+"MARGUERITE","Senior Analyst",63882,1
+"KENTON","Analyst",45903,0
+"CODY","Analyst",48470,0
+"FRANKIE","Analyst",45704,0
+"MILLICENT","Senior Analyst",57064,0
+"DEE","Analyst",48546,0
+"ZELMA","Senior Analyst",50044,5
+"PEARL","Analyst",41604,0
+"CARIDAD","Analyst",45022,0
+"ELDON","Manager",107432,8
+"SHANDA","Analyst",45499,0
+"HEATH","Analyst",47846,0
+"ROCIO","Senior Analyst",67299,1
+"MARJORIE","Analyst",48047,2
+"CYRUS","Senior Manager",186356,8
+"ISABELL","Analyst",48539,0
+"ROBBIE","Analyst",45146,0
+"TIFFANY","Senior Analyst",67321,0
+"JODIE","Analyst",43137,2
+"MARCY","Analyst",46974,0
+"WILHELMINA","Analyst",48602,1
+"NORA","Analyst",43036,0
+"JAIME","Analyst",49318,0
+"CHRISTA","Analyst",48356,0
+"BRADLEY","Analyst",49894,1
+"LUCILE","Analyst",42344,2
+"LYNDON","Analyst",43343,0
+"DARA","Analyst",47750,0
+"KENT","Analyst",42440,0
+"ANTIONETTE","Analyst",45236,3
+"OTIS","Analyst",41514,0
+"CHANCE","Analyst",45084,1
+"CONNIE","Analyst",41676,1
+"ANGELIA","Analyst",46127,0
+"SHIRLEY","Associate",99416,4
+"TESSIE","Analyst",47899,1
+"DARCY","Analyst",45927,0
+"CARMINE","Analyst",48891,1
+"SANFORD","Analyst",41284,0
+"MICHEAL","Director",313649,17
+"ROLLAND","Analyst",49111,0
+"KRIS","Senior Analyst",51509,0
+"CHET","Analyst",49393,0
+"TYRELL","Analyst",46580,0
+"ANGELICA","Analyst",44538,2
+"MARIE","Analyst",46507,0
+"NOLA","Analyst",47308,1
+"JED","Analyst",45952,0
+"BOBBIE","Senior Analyst",68505,1
+"EMILY","Senior Analyst",65316,0
+"GENARO","Analyst",47401,1
+"LUANN","Manager",129017,11
+"ELISA","Analyst",46347,1
+"DAN","Analyst",47573,2
+"WILFRED","Associate",97708,5
+"LEONEL","Analyst",46002,0
+"CLAIRE","Analyst",47201,1
+"ROGELIO","Analyst",46733,0
+"SHARLENE","Senior Manager",191793,17
+"BOBBIE","Senior Analyst",68505,1
+"HOYT","Analyst",41035,0
+"ALVINA","Manager",126871,7
+"JULIET","Senior Analyst",51532,0
+"ADELE","Analyst",43339,1
+"STANFORD","Analyst",44506,0
+"KIETH","Analyst",40045,0
+"TOD","Analyst",48938,0
+"KIRBY","Analyst",48185,0
+"MAE","Analyst",47579,2
+"DOMINIQUE","Director",375647,14
+"SHARON","Analyst",47386,0
+"DEVIN","Analyst",43952,1
+"JULIETTE","Analyst",48981,0
+"SALLY","Analyst",40702,1
+"NELLIE","Director",235565,17
+"BENNIE","Analyst",41641,0
+"BRETT","Analyst",44350,0
+"GUSSIE","Analyst",48887,0
+"DWIGHT","Analyst",47499,0
+"MICHELLE","Analyst",42128,1
+"STEVIE","Analyst",48271,0
+"MISSY","Analyst",41029,0
+"MIRNA","Analyst",43659,3
+"ANGELO","Manager",140867,7
+"JUDI","Analyst",49806,1
+"JODI","Analyst",49110,1
+"EDGARDO","Analyst",42081,0
+"CHRISTINA","Analyst",41017,0
+"JESSIE","Analyst",48869,0
+"NOAH","Senior Analyst",66965,5
+"JAMAL","Analyst",42338,0
+"MARY","Analyst",49380,0
+"SUZETTE","Manager",117354,6
+"CASANDRA","Analyst",41679,2
+"HARLAND","Analyst",44207,0
+"EVELYN","Analyst",45059,0
+"PAULA","Associate",95056,0
+"DAVIS","Analyst",48777,0
+"DOLLIE","Senior Analyst",56728,4
+"KERRIE","Senior Analyst",53113,1
+"LELIA","Analyst",45039,0
+"BRIGITTE","Analyst",41619,0
+"CORNELIA","Senior Analyst",62672,1
+"GINO","Analyst",42925,0
+"SHEILA","Analyst",44343,1
+"KARA","Analyst",47967,0
+"CHUNG","Associate",92323,4
+"DOMINIQUE","Analyst",42002,2
+"MABEL","Senior Manager",199577,11
+"AMBER","Associate",96478,0
+"SONNY","Senior Analyst",51817,3
+"NANNIE","Analyst",45604,2
+"WESLEY","Analyst",46844,2
+"FRIEDA","Analyst",46425,0
+"LISA","Analyst",41908,0
+"ANNA","Analyst",42848,0
+"CARLTON","Analyst",45895,0
+"PAULINA","Analyst",41580,0
+"KELVIN","Senior Analyst",55417,0
+"JARRETT","Analyst",41803,0
+"MAVIS","Manager",113837,8
+"NAOMI","Senior Analyst",69851,3
+"BO","Analyst",42429,1
+"PARIS","Associate",90346,2
+"DEMARCUS","Analyst",44980,0
+"LYMAN","Manager",124711,6
+"ODELL","Analyst",42803,0
+"JUSTIN","Analyst",44015,0
+"THEODORA","Senior Analyst",55693,2
+"LURA","Senior Analyst",52083,1
+"LYLE","Analyst",46907,0
+"BILLIE","Senior Analyst",63008,0
+"AUSTIN","Senior Analyst",64112,0
+"MAX","Analyst",44888,2
+"CLARICE","Analyst",41921,2
+"JULIANNE","Analyst",41926,0
+"BONITA","Director",324783,19
+"JANIS","Analyst",46499,1
+"JOSEFINA","Analyst",42754,0
+"ROMAN","Analyst",46812,0
+"ADOLPH","Analyst",47001,0
+"DIANA","Analyst",40646,1
+"SONJA","Associate",97879,3
+"MONIQUE","Analyst",49013,0
+"DELMA","Analyst",41120,0
+"AMY","Manager",126181,5
+"DESTINY","Associate",76143,6
+"BUSTER","Analyst",40998,0
+"DANNIE","Senior Manager",198814,6
+"KRISTOPHER","Analyst",43417,0
+"BIANCA","Senior Analyst",59111,4
+"OWEN","Associate",72328,0
+"NATHANIEL","Analyst",44225,1
+"MYLES","Analyst",47561,1
+"IRENE","Analyst",44512,2
+"ALEX","Analyst",43352,2
+"HIPOLITO","Analyst",49619,3
+"LILLIAN","Analyst",43991,2
+"GLENNA","Analyst",44712,0
+"ELBA","Analyst",47401,0
+"NICOLAS","Associate",85391,1
+"VIRGINIA","Analyst",47638,2
+"TERRY","Analyst",41284,0
+"DONNELL","Analyst",46251,2
+"ABE","Analyst",47183,3
+"HELEN","Analyst",44214,0
+"CRAIG","Analyst",41227,0
+"PARKER","Analyst",43474,2
+"SHANNON","Analyst",42178,0
+"BROOKE","Analyst",40436,0
+"OLIVER","Analyst",41354,0
+"SILAS","Analyst",40417,0
+"APRIL","Analyst",44617,0
+"RONALD","Analyst",44163,0
+"YVONNE","Analyst",45123,0
+"GERALD","Analyst",41550,0
+"MILAN","Analyst",41989,0
+"HOSEA","Analyst",46206,1
+"DOUGLAS","Analyst",42255,1
+"ASHLEY","Analyst",42667,1
+"NOEL","Analyst",41734,2
+"VIDA","Analyst",40975,0
+"MADELYN","Analyst",47695,0
+"CLAIR","Analyst",42786,0
+"REBA","Analyst",48681,0
+"OLIN","Analyst",43185,0
+"CAMILLE","Analyst",41577,0
+"PALMER","Analyst",41691,0
+"SEBASTIAN","Senior Analyst",51534,3
+"ADDIE","Analyst",49020,0
+"TROY","Manager",120184,7
+"DONG","Manager",147560,6
+"BLAKE","Analyst",49602,0
+"BETTE","Analyst",42538,0
+"SANDY","Analyst",41027,0
+"MICHAEL","Analyst",43716,0
+"ETHEL","Senior Analyst",60085,0
+"RON","Analyst",48682,0
+"TERRIE","Analyst",42710,0
+"RODRICK","Senior Analyst",53390,2
+"JOEL","Associate",99130,3
+"DOUG","Analyst",45152,0
+"JAY","Analyst",43357,0
+"LYNETTE","Senior Analyst",57000,0
+"DARIUS","Analyst",44134,0
+"IRVING","Analyst",44148,1
+"ROB","Senior Analyst",56181,0
+"CANDACE","Analyst",48287,1
+"DWAYNE","Senior Analyst",69421,3
+"ARLIE","Analyst",44342,0
+"OPAL","Senior Analyst",61710,2
+"JUAN","Senior Analyst",61575,1
+"COLUMBUS","Analyst",46038,0
+"NICHOLAS","Associate",78493,4
+"MONIKA","Analyst",43292,3
+"HANS","Analyst",42657,2
+"TAYLOR","Analyst",42400,1
+"AURELIA","Analyst",41713,0
+"GREGORIO","Analyst",46664,0
+"TANIA","Senior Analyst",66339,1
+"FREDDIE","Analyst",45450,0
+"HORTENCIA","Analyst",43355,2
+"BRITTANY","Analyst",42140,0
+"AVERY","Senior Analyst",52406,5
+"MATHEW","Analyst",42440,2
+"RICH","Senior Analyst",64913,0
+"LUPE","Analyst",41551,0
+"AGUSTIN","Senior Analyst",54689,0
+"MYRA","Analyst",48747,0
+"GEORGINA","Senior Analyst",59907,0
+"KIM","Analyst",45319,2
+"HAI","Senior Analyst",60707,2
+"TRACY","Analyst",43124,1
+"JODIE","Analyst",43137,2
+"ALEXIS","Analyst",42121,0
+"WENDY","Analyst",45950,2
+"SELINA","Senior Analyst",55525,0
+"ROBBY","Manager",112580,8
+"ERNESTINA","Analyst",42160,0
+"ALICE","Analyst",40335,0
+"ALLYSON","Analyst",40363,0
+"VERNELL","Analyst",49029,0
+"ELAINE","Analyst",48775,1
+"MARLON","Analyst",40396,0
+"KELLY","Analyst",45998,3
+"GAIL","Senior Analyst",68996,0
+"RENE","Analyst",48222,1
+"MERVIN","Analyst",47982,0
+"HILARIO","Analyst",44888,3
+"VIOLA","Analyst",42457,2
+"CYRIL","Senior Analyst",58619,1
+"SUSANNE","Analyst",45482,0
+"DARRYL","Analyst",47827,0
+"STACIE","Senior Manager",169300,10
+"ANN","Analyst",48833,0
+"SHANNON","Associate",96909,1
+"JOHNATHAN","Senior Analyst",65639,4
+"ALEX","Analyst",43352,2
+"LORENZO","Senior Analyst",63841,0
+"SHARRON","Analyst",46988,2
+"FORREST","Analyst",48739,0
+"HOLLIE","Analyst",46438,0
+"MARISA","Analyst",49253,0
+"WARREN","Analyst",43508,0
+"WILEY","Analyst",43586,0
+"BOYCE","Analyst",46064,1
+"JUDE","Analyst",43031,1
+"ASHLEIGH","Analyst",40513,1
+"DINO","Analyst",47018,0
+"CHRISTIAN","Senior Analyst",50368,3
+"LYN","Associate",99098,8
+"EUNICE","Analyst",47735,2
+"WILFREDO","Analyst",42722,0
+"RAMON","Associate",73190,3
+"FRAN","Analyst",40134,0
+"GERARDO","Associate",93854,1
+"LACY","Senior Analyst",67014,0
+"DENVER","Analyst",46726,1
+"RANDI","Analyst",49497,0
+"JEANNETTE","Analyst",40270,3
+"SHARI","Senior Analyst",60155,4
+"MADGE","Analyst",44054,1
+"KARRIE","Analyst",49006,0
+"KURTIS","Analyst",41008,0
+"VINCE","Analyst",44497,1
+"GWENDOLYN","Analyst",45528,0
+"HARRY","Analyst",41196,1
+"JAYME","Senior Analyst",60159,0
+"EMILY","Senior Analyst",65316,0
+"REBECCA","Analyst",49744,0
+"DANIAL","Analyst",41865,0
+"LANNY","Analyst",45784,0
+"CLEO","Manager",111599,10
+"MCKINLEY","Associate",77261,6
+"CASSANDRA","Analyst",41323,2
+"ISMAEL","Analyst",44664,1
+"AMIE","Senior Analyst",65927,1
+"GIUSEPPE","Analyst",42723,0
+"ALMA","Director",313938,12
+"CLAUDE","Analyst",46616,0
+"LENA","Analyst",47517,2
+"ELISHA","Senior Analyst",66311,2
+"EFRAIN","Analyst",43620,0
+"BOBBY","Associate",72359,9
+"AISHA","Analyst",43324,0
+"MERLIN","Senior Analyst",66984,0
+"JEFF","Senior Analyst",63154,3
+"NINA","Analyst",45992,2
+"CLEMENT","Analyst",44887,0
+"DONN","Senior Analyst",57046,0
+"JAYSON","Analyst",40065,0
+"NOELLE","Analyst",43676,0
+"TERESA","Analyst",43428,0
+"ARCHIE","Analyst",43976,0
+"BRENTON","Senior Analyst",66820,1
+"NORRIS","Senior Analyst",64798,2
+"FANNIE","Analyst",40403,0
+"DAISY","Associate",99603,5
+"CATHY","Associate",96198,2
+"RAPHAEL","Senior Analyst",51930,4
+"LAVERN","Analyst",48996,2
+"DEMETRIA","Analyst",46808,3
+"ELVIRA","Senior Manager",167610,12
+"SHERRIE","Analyst",44454,3
+"REID","Associate",86231,6
+"ALISON","Analyst",45252,2
+"OMER","Analyst",44011,3
+"NORMA","Analyst",47519,0
+"DOMENIC","Analyst",46947,3
+"BRICE","Analyst",46556,3
+"JULIE","Analyst",43363,0
+"BERNADETTE","Analyst",43391,1
+"LUELLA","Analyst",41164,0
+"HELGA","Analyst",48476,1
+"FATIMA","Senior Manager",167525,10
+"DANIELLE","Senior Analyst",65594,0
+"PAULETTE","Analyst",45579,0
+"JEROMY","Senior Analyst",65880,0
+"RUSSEL","Analyst",48948,0
+"SONIA","Analyst",45525,0
+"DALE","Analyst",41819,0
+"TOMMIE","Analyst",49752,1
+"ROY","Analyst",48611,0
+"COLBY","Analyst",43295,2
+"MARISELA","Analyst",40395,0
+"EARNEST","Senior Analyst",62960,0
+"TOBY","Analyst",41912,0
+"TRACEY","Analyst",45013,0
+"JEANNIE","Senior Analyst",56854,0
+"TRACIE","Analyst",47681,0
+"CHARLES","Analyst",43638,3
+"MARSHALL","Analyst",45776,1
+"RICO","Analyst",47216,0
+"ALEXANDER","Analyst",46824,0
+"SHAWNA","Manager",143778,6
+"THEODORA","Senior Analyst",55693,2
+"HARLEY","Senior Analyst",60465,0
+"ALISHA","Analyst",40816,0
+"BERNARD","Analyst",44427,1
+"ANTIONE","Analyst",48930,0
+"OSVALDO","Manager",148273,7
+"HARLAN","Analyst",48583,1
+"TYRONE","Analyst",40413,1
+"DARYL","Analyst",46891,2
+"JESSE","Senior Analyst",56166,4
+"DORRIS","Analyst",43986,0
+"HUGH","Analyst",43621,2
+"DARREL","Analyst",40228,0
+"EUGENIA","Analyst",49384,0
+"TREY","Analyst",48969,1
+"ANDERSON","Senior Analyst",58341,4
+"SUSANNA","Analyst",44448,0
+"KAITLIN","Senior Analyst",51655,4
+"ISSAC","Analyst",42776,2
+"LAURIE","Analyst",47326,0
+"CORTNEY","Analyst",48098,0
+"LEMUEL","Analyst",49903,0
+"FRANKIE","Analyst",45704,0
+"LUTHER","Analyst",41984,0
+"CORDELL","Analyst",48447,2
+"HELENA","Senior Analyst",50809,1
+"TOMMIE","Analyst",45181,0
+"PAULETTE","Analyst",45579,0
+"THADDEUS","Analyst",44543,0
+"SHELLEY","Analyst",41380,1
+"MOISES","Senior Analyst",53406,3
+"DOMINICK","Analyst",41662,0
+"FLORENTINO","Analyst",41955,0
+"JOHNIE","Analyst",45323,0
+"GREGG","Associate",90201,4
+"BORIS","Analyst",40222,0
+"LEIGH","Analyst",43247,0
+"FRANCISCA","Senior Analyst",62673,2
+"RUSS","Senior Analyst",69306,2
+"SANTA","Analyst",48462,1
+"MICHELE","Senior Analyst",54643,4
+"OLLIE","Senior Analyst",57182,3
+"ALEXANDRIA","Analyst",49395,0
+"LUCY","Senior Analyst",60348,2
+"ALLEN","Associate",72626,4
+"LETITIA","Analyst",43751,2
+"LEONA","Senior Analyst",65607,1
+"VERN","Analyst",40183,0
+"RITA","Analyst",47609,2
+"JAKE","Analyst",45896,0
+"BOBBI","Analyst",40486,1
+"DEMETRIA","Analyst",46808,3
+"GAYLE","Associate",96535,0
+"DEXTER","Analyst",44762,0
+"CORRINE","Analyst",48839,0
+"CLEO","Analyst",43397,0
+"SUNG","Analyst",49611,0
+"BETTINA","Senior Analyst",67051,3
+"ROSEMARY","Associate",93516,7
+"JIMMIE","Analyst",44181,0
+"ANDREA","Manager",100471,7
+"DESSIE","Senior Analyst",69383,0
+"SERENA","Analyst",43132,0
+"DIANNE","Analyst",40403,2
+"GRADY","Analyst",43239,0
+"WALDO","Analyst",42943,0
+"LANA","Analyst",41664,0
+"THAD","Senior Analyst",63290,0
+"BYRON","Analyst",47598,1
+"DEBORA","Analyst",45447,0
+"SCOT","Analyst",42213,0
+"MAYNARD","Analyst",44397,0
+"MINA","Analyst",48801,0
+"RANDELL","Analyst",47532,1
+"PERRY","Senior Manager",184143,12
+"CHANG","Manager",124154,8
+"HORACE","Analyst",40786,2
+"JESSIE","Analyst",47080,0
+"MADONNA","Analyst",46572,1
+"ERLINDA","Analyst",42066,1
+"RUTHIE","Associate",72598,6
+"COLETTE","Analyst",46506,0
+"HERMINIA","Analyst",44733,1
+"RODRICK","Senior Analyst",53390,2
+"NATHAN","Analyst",46227,0
+"JENIFER","Analyst",46207,0
+"ELLIS","Senior Analyst",62243,0
+"CHESTER","Analyst",48479,0
+"ELVIN","Analyst",48364,0
+"ELDA","Analyst",46564,3
+"HERIBERTO","Analyst",48001,0
+"WAYNE","Senior Analyst",55001,0
+"MAUDE","Analyst",49901,2
+"REY","Senior Analyst",65919,2
+"MARTIN","Senior Analyst",61353,0
+"KEISHA","Analyst",49321,3
+"JEFFERY","Associate",93715,6
+"ROMEO","Analyst",41052,1
+"JOSUE","Analyst",46907,0
+"ADA","Analyst",45518,0
+"FREDA","Analyst",43894,0
+"MOSES","Analyst",48355,1
+"DYLAN","Analyst",47759,0
+"MYRNA","Analyst",40105,1
+"ELEANOR","Senior Analyst",60014,1
+"PATRICIA","Analyst",44848,0
+"ROSARIO","Analyst",45103,0
+"MAYRA","Associate",81191,4
+"SUZANNE","Analyst",45025,0
+"ARNULFO","Analyst",41943,0
+"BEULAH","Senior Analyst",50393,0
+"LORAINE","Analyst",42003,0
+"CHAD","Analyst",42041,0
+"BEVERLEY","Analyst",44015,1
+"CLIFFORD","Manager",140916,4
+"DEVON","Analyst",46173,0
+"SCOTT","Analyst",41701,1
+"MIKEL","Analyst",47465,0
+"DORRIS","Analyst",43986,0
+"SHEENA","Analyst",49670,1
+"ELSIE","Senior Manager",153111,6
+"DARWIN","Analyst",47408,1
+"SYDNEY","Analyst",47629,1
+"SOPHIA","Senior Analyst",68884,5
+"LYNDA","Analyst",49849,1
+"JOEY","Senior Analyst",68785,1
+"BRIDGETT","Analyst",48102,0
+"TYREE","Analyst",44610,0
+"MARTINA","Analyst",46659,1
+"CRISTOBAL","Analyst",47781,0
+"SUE","Analyst",49942,2
+"ROSALIND","Manager",148606,8
+"NOREEN","Manager",110885,5
+"KELLY","Analyst",45019,0
+"BRITT","Analyst",41378,0
+"JEANETTE","Analyst",42327,0
+"SAUL","Senior Analyst",68446,3
+"LONNY","Analyst",47764,0
+"COLLIN","Analyst",49905,0
+"NUMBERS","Director",253284,23
+"TAMMIE","Analyst",49703,0
+"CATHLEEN","Analyst",48049,1
+"FELICIA","Analyst",43428,2
+"ALEJANDRO","Senior Manager",185221,11
+"GENEVA","Analyst",48969,1
+"VITO","Analyst",45740,1
+"JULIANA","Analyst",46601,0
+"MITCHELL","Analyst",45949,1
+"VALENTIN","Analyst",41861,0
+"SCOT","Analyst",42213,0
+"ADAN","Senior Analyst",56772,0
+"MADELINE","Analyst",46052,3
+"ROSANNA","Analyst",43483,0
+"WALKER","Analyst",43860,2
+"MARQUITA","Senior Analyst",61374,3
+"LUCINDA","Analyst",48095,0
+"BLAINE","Analyst",49592,0
+"BENNETT","Analyst",46942,1
+"DELIA","Analyst",42333,2
+"JACLYN","Director",319141,17
+"LAUREL","Associate",91596,3
+"SOCORRO","Analyst",40586,0
+"PETE","Analyst",49530,0
+"BETH","Analyst",42583,2
+"PHILLIS","Associate",92453,4
+"LASHONDA","Associate",93659,5
+"BROOKS","Analyst",48222,2
+"WALLY","Analyst",46319,2
+"EZEKIEL","Analyst",45861,2
+"DAYNA","Analyst",45481,0
+"ANNE","Analyst",42008,1
+"ELDEN","Analyst",47850,0
+"DEWITT","Analyst",40113,2
+"COURTNEY","Analyst",47525,0
+"EARLE","Analyst",47685,0
+"ESPERANZA","Senior Analyst",64823,1
+"NICK","Analyst",40414,1
+"INEZ","Analyst",40572,0
+"CELESTE","Analyst",46350,2
+"RENALDO","Associate",93529,3
+"QUINTIN","Senior Analyst",63647,0
+"LEANN","Manager",140401,9
+"TABATHA","Analyst",49141,0
+"THOMAS","Analyst",43670,1
+"JAMAAL","Analyst",42553,0
+"TEDDY","Analyst",46783,0
+"RUFUS","Analyst",47146,0
+"NADIA","Analyst",48730,0
+"JASPER","Analyst",40808,0
+"CAITLIN","Analyst",40508,1
+"SIMONE","Analyst",45111,0
+"TAYLOR","Analyst",47414,1
+"RANDOLPH","Senior Manager",161839,11
+"EULA","Associate",82993,5
+"HANNA","Analyst",43354,1
+"RAUL","Analyst",47791,1
+"VELMA","Senior Analyst",59115,0
+"VERNICE","Analyst",49830,0
+"FELECIA","Analyst",46822,0
+"SELENA","Analyst",45321,0
+"CLARENCE","Analyst",48781,0
+"JEAN","Analyst",49631,2
+"BRIANNE","Analyst",46102,1
+"CHRISTI","Analyst",46781,1
+"ANTONIA","Analyst",46935,1
+"AUGUSTINE","Analyst",41705,0
+"FREEMAN","Analyst",43434,0
+"CHRIS","Analyst",43726,1
+"HORACIO","Analyst",48443,0
+"SALLIE","Senior Analyst",50687,5
+"EDITH","Analyst",42635,2
+"WINONA","Analyst",41834,1
+"GRETCHEN","Analyst",44028,2
+"EDDY","Analyst",44787,0
+"MARYANN","Senior Analyst",60183,1
+"WM","Analyst",40594,1
+"MOISES","Senior Analyst",53406,3
+"FRANKLIN","Analyst",40251,0
+"MA","Analyst",44551,0
+"JEFFRY","Analyst",49525,2
+"DONALD","Analyst",43624,0
+"ADELINE","Analyst",41785,2
+"OLEN","Senior Analyst",52760,2
+"CHERIE","Analyst",42143,0
+"PABLO","Senior Analyst",68067,2
+"ARLEEN","Associate",87166,3
+"JACKSON","Analyst",48519,0
+"ISAAC","Analyst",47013,0
+"DEWEY","Analyst",47131,0
+"BRAD","Senior Analyst",67582,3
+"RANDALL","Analyst",48343,0
+"HARVEY","Analyst",44693,0
+"SELMA","Analyst",47812,0
+"SASHA","Analyst",40690,1
+"ELISHA","Senior Analyst",66311,2
+"DOROTHY","Analyst",48587,0
+"CONSTANCE","Analyst",44467,0
+"GERTRUDE","Analyst",43172,1
+"MARTHA","Analyst",44014,0
+"VERNON","Analyst",44372,0
+"LORA","Analyst",47033,0
+"SHELBY","Analyst",47990,0
+"OMA","Analyst",46452,0
+"MONTE","Analyst",42826,2
+"CARMEN","Analyst",40846,0
+"JOANN","Analyst",45036,0
+"TRISTAN","Associate",71673,3
+"VAN","Analyst",41386,0
+"GABRIEL","Analyst",44094,0
+"VICTOR","Senior Analyst",67575,0
+"FLOSSIE","Analyst",45156,0
+"NORMAND","Analyst",49686,0
+"ROGER","Analyst",41032,0
+"IRVIN","Associate",98715,5
+"ROSEANN","Senior Analyst",58773,2
+"NICKOLAS","Analyst",41925,0
+"CHERYL","Analyst",43531,3
+"WAYLON","Analyst",42673,0
+"AL","Analyst",49618,0
+"RENAE","Senior Analyst",69643,3
+"SHAWN","Senior Analyst",59262,0
+"BILLIE","Analyst",41583,3
+"DEANNA","Analyst",40415,0
+"CHARITY","Analyst",42416,0
+"STEVE","Associate",87324,5
+"JERRY","Associate",84967,0
+"EMILIE","Analyst",41869,0
+"DIANN","Analyst",43481,0
+"MISTY","Senior Analyst",54166,2
+"EMMITT","Analyst",47649,3
+"CAREY","Manager",119673,5
+"ARLINE","Analyst",47431,0
+"LACEY","Analyst",48014,0
+"SHERI","Analyst",49686,0
+"ELIZABETH","Analyst",46043,1
+"WILTON","Analyst",46110,1
+"JUANITA","Senior Analyst",62307,0
+"NED","Analyst",49627,0
+"TRAVIS","Analyst",44882,2
+"MILO","Manager",144573,10
+"JARROD","Senior Manager",164773,13
+"RICKEY","Senior Analyst",67735,0
+"STUART","Analyst",44964,0
+"JUNG","Analyst",41476,0
+"EMMA","Analyst",40251,1
+"HUMBERTO","Associate",97830,2
+"SANG","Analyst",42797,1
+"GONZALO","Analyst",43173,0
+"KIMBERLEY","Analyst",47683,3
+"EBONY","Senior Manager",196757,7
+"HAZEL","Analyst",42075,0
+"AMOS","Analyst",43353,0
+"TAD","Analyst",43923,0
+"MALISSA","Analyst",43605,0
+"VONDA","Analyst",41262,0
+"GARTH","Analyst",48056,0
+"CAROLYN","Analyst",46584,1
+"JAMISON","Analyst",42651,0
+"CAMERON","Analyst",42465,0
+"CAROL","Analyst",42453,0
+"LOGAN","Analyst",46026,0
+"CORNELL","Analyst",49581,1
+"MAGGIE","Analyst",41729,0
+"ORLANDO","Senior Analyst",56977,2
+"ESTEBAN","Senior Manager",166335,11
+"WINFRED","Manager",135653,7
+"CONCEPCION","Associate",98057,6
+"DIEGO","Senior Analyst",54184,4
+"SIDNEY","Analyst",49953,3
+"CANDICE","Senior Analyst",52113,0
+"ORVAL","Analyst",44983,1
+"DANA","Analyst",45057,0
+"THEODORE","Analyst",46985,0
+"FEDERICO","Analyst",41846,1
+"JEROMY","Senior Analyst",65880,0
+"ILENE","Associate",79721,6
+"EVE","Analyst",45636,1
+"TERRA","Analyst",41609,2
+"RENAE","Senior Analyst",69643,3
+"DOMINGA","Analyst",47178,2
+"WILMER","Senior Analyst",50739,0
+"TRENT","Analyst",40331,0
+"MOSHE","Senior Analyst",57997,2
+"ABBIE","Analyst",46514,2
+"LUELLA","Analyst",41164,0
+"ERNESTO","Analyst",40140,1
+"ADOLFO","Analyst",46116,0
+"MARGARET","Analyst",49111,2
+"PATRICE","Analyst",47782,2
+"RANDY","Analyst",44022,2
+"JOESPH","Analyst",41468,0
+"BERNIECE","Analyst",40142,0
+"EMILIA","Senior Manager",151618,10
+"NIGEL","Senior Analyst",66022,1
+"ELLA","Analyst",47746,1
+"ROSENDO","Analyst",48101,0
+"NICHOLE","Analyst",45028,0
+"SHERRI","Analyst",43461,1
+"KENETH","Analyst",43726,0
+"ARON","Analyst",49310,2
+"FERMIN","Analyst",44925,0
+"CANDIDA","Senior Manager",187426,13
+"JANIE","Analyst",47430,0
+"BENITA","Analyst",44312,0
+"NADINE","Analyst",40271,2
+"EVA","Analyst",45105,0
+"FERN","Analyst",45174,1
+"FAUSTINO","Analyst",49908,1
+"WILLIE","Analyst",44591,0
+"ANTOINE","Analyst",40054,0
+"CHRISTY","Analyst",48773,0
+"CORINE","Analyst",41685,2
+"SONDRA","Analyst",49026,0
+"FLETCHER","Associate",71873,3
+"GWEN","Analyst",46078,0
+"MARCIA","Analyst",47936,0
+"VICKI","Analyst",41653,2
+"MARC","Analyst",49265,0
+"JOE","Analyst",43315,0
+"EDYTHE","Analyst",43569,0
+"DEBRA","Manager",122535,5
+"ROBERTO","Analyst",45606,1
+"DERICK","Analyst",40300,1
+"THERESA","Analyst",44956,0
+"LOUIE","Analyst",40562,0
+"PORFIRIO","Analyst",45155,0
+"IAN","Analyst",45531,0
+"SAUNDRA","Analyst",44618,1
+"JANICE","Analyst",46823,1
+"ROLANDO","Analyst",48268,2
+"TORY","Analyst",43807,0
+"LEOTA","Analyst",47160,1
+"JUDY","Analyst",42519,0
+"MOLLIE","Analyst",47297,0
+"HOLLIS","Senior Manager",153246,11
+"SID","Analyst",45122,0
+"LAURETTA","Analyst",46152,2
+"SERGIO","Associate",90802,3
+"TRUDY","Analyst",47788,0
+"LUIS","Analyst",46218,0
+"ERNA","Analyst",40398,0
+"CLAUDIO","Analyst",40267,0
+"KERMIT","Analyst",46965,2
+"BRIANA","Analyst",41071,0
+"HECTOR","Analyst",40261,3
+"JEANNETTE","Analyst",40270,3
+"ROSALEE","Analyst",42148,0
+"WES","Analyst",43671,0
+"COY","Analyst",42469,0
+"DWAIN","Analyst",47979,0
+"KERRY","Analyst",46370,0
+"JEFFERSON","Analyst",44273,2
+"ROSARIO","Manager",129647,8
+"THANH","Analyst",41316,0
+"DAPHNE","Analyst",43159,0
+"YESENIA","Senior Analyst",56300,3
+"SUZAN","Analyst",40236,2
+"JERALD","Analyst",44730,1
+"ANTONY","Associate",78311,7
+"STEWART","Analyst",45875,0
+"TIMMY","Senior Analyst",65600,3
+"MARCEL","Analyst",46851,0
+"TIMOTHY","Manager",114337,9
+"JOSEPHINE","Analyst",45527,0
+"ALYCE","Associate",83091,2
+"DORIS","Analyst",40244,0
+"ANTOINETTE","Analyst",49315,1
+"ALAN","Analyst",45461,2
+"KERRI","Senior Analyst",59425,0
+"OFELIA","Analyst",41966,0
+"ABRAM","Analyst",43938,3
+"ELISSA","Analyst",41759,0
+"RIGOBERTO","Senior Manager",171056,10
+"EFREN","Analyst",40214,2
+"SHAUNA","Analyst",43148,2
+"ANDY","Analyst",48074,0
+"BETSY","Analyst",45561,0
+"CAROLINA","Analyst",42987,0
+"JANELLE","Analyst",44125,1
+"JEROME","Analyst",45790,0
+"MARILYNN","Analyst",47807,1
+"LOU","Analyst",44763,0
+"DENNY","Analyst",41516,2
+"EDMUND","Analyst",49764,2
+"JANNIE","Analyst",48892,1
+"ADRIANNE","Analyst",49248,0
+"SPENCER","Analyst",45818,2
+"SANTOS","Analyst",45675,0
+"ASA","Analyst",45744,1
+"DOUGLASS","Analyst",43418,2
+"JEWEL","Analyst",43601,0
+"SHELIA","Senior Analyst",66908,1
+"HILARY","Analyst",47667,0
+"COLIN","Analyst",48689,1
+"SALVADOR","Analyst",45633,0
+"TERRI","Analyst",48287,2
+"ALFRED","Analyst",49459,3
+"DELLA","Analyst",48222,1
+"ADAM","Analyst",47590,3
+"CONNIE","Analyst",41166,3
+"JOSE","Analyst",42064,1
+"NICKY","Analyst",44557,2
+"BESSIE","Associate",87171,2
+"ALYSON","Analyst",41053,0
+"GREG","Analyst",41320,0
+"MARIANA","Analyst",49662,1
+"RYAN","Analyst",42476,0
+"EDUARDO","Senior Analyst",51380,5
+"LUCILE","Analyst",42344,2
+"JERRY","Analyst",47714,1
+"ARIEL","Analyst",44406,1
+"JUSTINE","Analyst",42214,3
+"DORSEY","Analyst",46813,0
+"ESTELA","Analyst",48406,1
+"PATSY","Analyst",41265,0
+"COLLEEN","Analyst",43539,0
+"DANNY","Analyst",43875,0
+"EDGAR","Analyst",44814,0
+"DESIREE","Analyst",40961,1
+"COLE","Associate",91165,9
+"MONROE","Analyst",48354,1
+"ELIJAH","Associate",82514,5
+"ANGEL","Analyst",42303,1
+"DEWAYNE","Analyst",40424,0
+"ALINE","Analyst",47591,0
+"MATT","Analyst",42490,1
+"MYRON","Manager",135858,8
+"RAE","Analyst",43783,0
+"CARROLL","Analyst",46386,1
+"LANDON","Analyst",41781,2
+"KAYE","Senior Analyst",64636,1
+"MOHAMMAD","Analyst",41069,0
+"NEVILLE","Analyst",45481,0
+"TANNER","Analyst",42473,0
+"REYES","Senior Analyst",55949,0
+"CECILIA","Analyst",47237,2
+"DEANGELO","Analyst",49213,0
+"RUDOLF","Analyst",45289,0
+"FREDDY","Analyst",47142,2
+"EZEQUIEL","Analyst",41777,1
+"LEANDRO","Analyst",44478,0
+"PATTY","Analyst",45128,2
+"LARISSA","Analyst",48959,0
+"ESTER","Senior Analyst",52009,3
+"LARRY","Analyst",46697,2
+"ALFREDA","Analyst",43009,1
+"CLYDE","Analyst",49928,1
+"ARNOLDO","Associate",93342,3
+"MICHEL","Analyst",42886,0
+"DUSTIN","Analyst",46693,0
+"TAMI","Analyst",43677,0
+"JOSH","Senior Analyst",52792,0
+"VALARIE","Analyst",49300,1
+"BENJAMIN","Analyst",45538,0
+"SAMANTHA","Analyst",45538,0
+"HASSAN","Associate",88539,8
+"IVETTE","Analyst",46847,3
+"CHRISTIN","Analyst",47248,2
+"ROD","Analyst",43511,0
+"MILLARD","Associate",98506,2
+"LORENZO","Senior Analyst",63841,0
+"ALBA","Analyst",46990,0
+"CRUZ","Senior Analyst",69432,4
+"EMILIO","Analyst",47469,0
+"MARKUS","Senior Analyst",69231,0
+"MOHAMMED","Analyst",49689,1
+"CLARA","Analyst",47786,3
+"TAMARA","Analyst",46116,2
+"REUBEN","Analyst",42481,0
+"CARMEL","Analyst",48484,3
+"FREIDA","Analyst",47216,0
+"BRADFORD","Associate",86819,7
+"ARRON","Senior Analyst",55885,0
+"KARI","Senior Manager",177412,14
+"ANGELINA","Senior Analyst",69716,4
+"STEFANIE","Analyst",49831,0
+"SON","Analyst",48410,2
+"ED","Analyst",47201,0
+"KEVIN","Analyst",42384,0
+"JASPER","Analyst",40808,0
+"CARROL","Analyst",44657,0
+"FREDERICK","Analyst",46142,0
+"VINCENZO","Associate",92590,3
+"KATHLEEN","Analyst",45755,0
+"ALPHONSO","Analyst",44469,0
+"JEANNE","Analyst",44744,0
+"ABIGAIL","Senior Analyst",62659,2
+"WINFORD","Analyst",48317,1
+"CHELSEA","Analyst",49444,0
+"IRIS","Senior Analyst",61787,0
+"LUCIUS","Analyst",45179,0
+"KRISTOFER","Analyst",44428,3
+"SHANA","Analyst",42819,0
+"FABIAN","Senior Analyst",65110,0
+"JAMEL","Associate",93996,1
+"ANA","Analyst",40406,1
+"SIERRA","Analyst",43923,0
+"LORENE","Analyst",43121,1
+"MAURICE","Analyst",48246,0
+"HILLARY","Analyst",45389,1
+"RUSSELL","Analyst",47668,0
+"MAC","Senior Analyst",51747,0
+"DERRICK","Associate",86702,1
+"PAMELA","Analyst",42132,0
+"IONE","Senior Analyst",51640,5
+"TRISHA","Analyst",47755,0
+"AGNES","Analyst",49660,0
+"CELIA","Analyst",49826,0
+"LEE","Analyst",46839,0
+"PENELOPE","Analyst",48203,0
+"LIZZIE","Analyst",48869,1
+"BRITTNEY","Senior Manager",181470,8
+"SHERYL","Senior Analyst",69590,0
+"JACQUELINE","Analyst",45513,0
+"GISELA","Analyst",47769,0
+"VIRGILIO","Analyst",48171,3
+"HOBERT","Analyst",45551,0
+"MARION","Analyst",49206,0
+"SARA","Associate",75658,4
+"MARYBETH","Analyst",40832,0
+"SHELLIE","Analyst",47376,0
+"ADALBERTO","Analyst",44220,0
+"AGATHA","Senior Analyst",59246,1
+"SHEREE","Analyst",49559,2
+"AIMEE","Analyst",44806,0
+"CHARLOTTE","Analyst",49497,0
+"WILLIAMS","Analyst",40935,1
+"REYNALDO","Analyst",48309,0
+"STEVEN","Analyst",49108,0
+"ELISE","Manager",143333,9
+"TERENCE","Senior Analyst",52198,4
+"JESS","Analyst",41928,1
+"JENNIE","Senior Manager",167378,9
+"GORDON","Analyst",48164,2
+"DEANA","Analyst",45450,1
+"ZACK","Associate",78789,4
+"LATANYA","Analyst",44305,0
+"JERROD","Analyst",45148,0
+"WILBUR","Analyst",48915,2
+"EMMANUEL","Analyst",45223,0
+"DONNIE","Analyst",45485,3
+"JACQUELYN","Manager",130749,7
+"LIONEL","Senior Analyst",68290,0
+"ROSA","Analyst",41421,1
+"ALLYSON","Analyst",40363,0
+"ERASMO","Analyst",41904,0
+"KARLA","Analyst",49449,0
+"DORIAN","Analyst",43794,2
+"ROSEMARIE","Analyst",42102,0
+"MARCOS","Senior Analyst",54514,3
+"DARON","Analyst",43415,1
+"TOMMY","Analyst",43528,1
+"ANDRES","Analyst",47667,0
+"CARMEN","Director",319742,15
+"RALEIGH","Analyst",47477,2
+"BETTY","Analyst",44620,1
+"MARGOT","Senior Analyst",69772,4
+"MOSES","Analyst",48355,1
+"MILTON","Analyst",41455,0
+"DAMION","Analyst",48581,0
+"LAURI","Analyst",43959,1
+"BRENDON","Analyst",41287,2
+"ABE","Analyst",47183,3
+"TANYA","Analyst",48546,0
+"JILLIAN","Analyst",49773,3
+"MIRIAM","Analyst",48772,1
+"FRANCESCA","Analyst",41104,1
+"MARYLOU","Analyst",40553,2
+"HENRIETTA","Analyst",48272,0
+"MORTON","Analyst",43438,2
+"SAL","Analyst",48181,1
+"ELBERT","Analyst",45331,0
+"GLEN","Analyst",42458,0
+"CARMELITA","Senior Analyst",65875,0
+"GAIL","Analyst",44108,2
+"MARICELA","Analyst",46164,0
+"PAT","Analyst",42493,0
+"MARTY","Analyst",46883,0
+"FLORENCIO","Analyst",48587,0
+"TRICIA","Analyst",40950,0
+"AVA","Senior Manager",190618,10
+"KATHARINE","Analyst",48784,2
+"AURORA","Analyst",44002,1
+"GLORIA","Analyst",43597,0
+"PHYLLIS","Senior Analyst",64432,5
+"SOPHIA","Senior Analyst",68884,5
+"JEANINE","Senior Analyst",50759,1
+"WILLIAM","Senior Analyst",69301,4
+"NOEL","Analyst",46217,1
+"GENE","Analyst",47261,0
+"CHUCK","Analyst",48818,0
+"MARCUS","Analyst",48618,0
+"CATHRINE","Associate",91316,6
+"KEITH","Senior Manager",154106,12
+"MIKE","Senior Manager",189307,12
+"KENNY","Analyst",44524,0
+"CORI","Analyst",40361,2
+"ANDREAS","Analyst",44856,0
+"SHAWN","Manager",140762,6
+"MARILYN","Analyst",47174,3
+"KARA","Analyst",47967,0
+"MAURA","Analyst",48441,1
+"LUCILLE","Analyst",45425,0
+"RALPH","Analyst",41404,1
+"DIRK","Analyst",41743,0
+"CANDICE","Senior Analyst",52113,0
+"LINDSAY","Analyst",43150,1
+"VICKIE","Analyst",40014,0
+"JERRELL","Senior Analyst",59121,1
+"STEPHEN","Analyst",49418,0
+"MILES","Analyst",41357,2
+"REYNA","Analyst",45856,0
+"ABBY","Analyst",45316,0
+"GAYLORD","Analyst",40332,0
+"BERNICE","Analyst",41673,0
+"ELOY","Analyst",45188,2
+"GIOVANNI","Analyst",47847,0
+"ROLANDO","Analyst",48268,2
+"TRACY","Analyst",48427,0
+"BRUNO","Analyst",44774,0
+"SOPHIE","Analyst",42997,0
+"JAIME","Analyst",48242,0
+"CARLO","Analyst",43356,0
+"PANSY","Analyst",46543,0
+"TRACI","Analyst",41610,0
+"JILL","Analyst",41430,0
+"KATHRYN","Analyst",46779,2
+"HUNG","Analyst",40786,2
+"ROSALINDA","Analyst",49492,3
+"LOYD","Associate",93212,2
+"REGINALD","Analyst",47691,1
+"HONG","Analyst",48127,0
+"CHERI","Analyst",42653,1
+"CANDY","Analyst",49237,0
+"VALERIE","Analyst",49070,0
+"RANDAL","Analyst",47843,2
+"ROB","Senior Analyst",56181,0
+"MARYANNE","Senior Manager",197246,10
+"LAKISHA","Analyst",45986,1
+"MORGAN","Analyst",41500,0
+"ESTELLA","Senior Analyst",60778,0
+"PRESTON","Analyst",41124,0
+"SHAUN","Analyst",40669,0
+"MALIK","Analyst",45278,0
+"BUD","Analyst",45865,2
+"BENNIE","Analyst",42662,1
+"FERNANDO","Senior Analyst",67796,2
+"ZENAIDA","Analyst",43669,0
+"LONNIE","Analyst",48626,0
+"JODY","Analyst",45324,2
+"RONNY","Analyst",49247,0
+"CHARLIE","Analyst",42737,0
+"WILLY","Analyst",45545,0
+"KRYSTLE","Analyst",44212,1
+"XAVIER","Analyst",49736,0
+"LEONARD","Analyst",49512,1
+"FREDRICK","Manager",104916,2
+"LARA","Senior Analyst",67198,5
+"BENITO","Analyst",42637,1
+"NOLAN","Analyst",45768,0
+"REGGIE","Analyst",43259,2
+"ROBBIN","Analyst",47050,0
+"FOSTER","Senior Analyst",68295,3
+"ELI","Analyst",41506,0
+"DOMINIC","Analyst",42125,0
+"TAMRA","Senior Analyst",60827,0
+"FELTON","Senior Analyst",61311,1
+"RAFAEL","Analyst",41248,1
+"POLLY","Analyst",47945,0
+"SHELIA","Senior Analyst",66908,1
+"LARISSA","Analyst",48959,0
+"BRAIN","Analyst",40240,1
+"LOIS","Analyst",43615,2
+"ESMERALDA","Analyst",46650,2
+"MARVA","Analyst",48148,1
+"ABDUL","Analyst",43939,0
+"TISHA","Analyst",40718,0
+"ISRAEL","Analyst",47985,0
+"FRANCINE","Analyst",44412,0
+"LULA","Analyst",44832,0
+"ROSALIA","Analyst",48161,0
+"STANTON","Analyst",41981,0
+"YOUNG","Analyst",45477,0
+"KENDALL","Analyst",47890,0
+"LORRIE","Analyst",48736,0
+"MALLORY","Analyst",47334,0
+"GAYLA","Senior Analyst",61742,0
+"WARD","Analyst",48995,0
+"ROLF","Analyst",47316,0
+"HERSHEL","Analyst",45125,1
+"EUSEBIO","Analyst",49235,0
+"LUCAS","Manager",117726,8
+"HOMER","Analyst",49095,1
+"IKE","Associate",94212,8
+"HERB","Analyst",42014,2
+"PENNY","Analyst",44193,0
+"CARLY","Analyst",46510,0
+"TANISHA","Analyst",48482,0
+"DENICE","Analyst",45715,0
+"DESHAWN","Analyst",46215,0
+"GEORGIA","Director",319407,12
+"LORENA","Analyst",40920,0
+"UNA","Analyst",48792,2
+"NATHANIAL","Analyst",43873,0
+"HYMAN","Analyst",45321,1
+"WESTON","Analyst",46848,0
+"HELENE","Senior Analyst",50680,0
+"BEAU","Analyst",46471,0
+"IMELDA","Senior Analyst",57896,0
+"QUINTON","Analyst",45340,1
+"RAY","Analyst",49873,1
+"CATRINA","Analyst",43257,1
+"HOUSTON","Analyst",45062,0
+"MINNIE","Analyst",44513,0
+"FELIPE","Analyst",44566,3
+"ETHAN","Analyst",40372,0
+"PORTIA","Senior Analyst",62595,0
+"INDIA","Manager",124060,5
+"NAPOLEON","Associate",90512,3
+"ENRIQUE","Analyst",41853,3
+"WHITNEY","Analyst",43548,0
+"DARRICK","Senior Analyst",59675,3
+"LILIA","Analyst",42398,0
+"ODIS","Senior Analyst",61638,0
+"VANCE","Analyst",42791,2
+"LEANNA","Senior Analyst",64193,2
+"LUZ","Analyst",48366,1
+"DEBORAH","Analyst",48470,1
+"ETHEL","Senior Analyst",60085,0
+"BRUCE","Senior Analyst",56430,0
+"FILOMENA","Analyst",42910,0
+"JOHN","Analyst",46265,2
+"MARISOL","Associate",90134,0
+"TAMERA","Manager",126294,5
+"LENORA","Senior Analyst",56291,1
+"SUSAN","Senior Analyst",69329,1
+"ANTWAN","Associate",78274,1
+"JOAN","Analyst",43681,0
+"MARGE","Senior Manager",179845,6
+"KITTY","Analyst",49453,0
+"MARIAN","Analyst",44447,0
+"JERRELL","Senior Analyst",59121,1
+"TWILA","Analyst",43319,1
+"RODERICK","Analyst",44837,0
+"SHAYLA","Analyst",43380,3
+"MINDY","Senior Analyst",57913,3
+"ANGELA","Senior Analyst",64737,1
+"SHONDA","Analyst",46261,0
+"GRANVILLE","Analyst",41899,0
+"VIVIAN","Analyst",48624,0
+"DIXIE","Associate",73718,1
+"FAYE","Associate",92460,1
+"EARLINE","Analyst",44630,1
+"RUSTY","Analyst",48067,0
+"DARCY","Analyst",45927,0
+"ANGELIQUE","Analyst",43721,1
+"CHARLIE","Associate",91035,5
+"GILDA","Analyst",40264,0
+"GLENDA","Senior Analyst",66250,0
+"PATRICK","Analyst",44576,2
+"JUDITH","Analyst",46927,0
+"ROLAND","Analyst",49712,0
+"ANNMARIE","Analyst",46772,0
+"FERDINAND","Manager",138812,11
+"TITUS","Analyst",40196,1
+"RONNIE","Senior Analyst",51084,1
+"MARTA","Analyst",46927,1
+"STACEY","Analyst",46349,1
+"MARGRET","Senior Analyst",50343,0
+"CAMILLA","Analyst",45507,2
+"ALISA","Associate",81319,2
+"DEON","Analyst",46322,1
+"ALFONSO","Analyst",42950,0
+"CHRIS","Analyst",48660,2
+"ROSCOE","Analyst",41920,1
+"DELORES","Analyst",47754,0
+"MITCHEL","Analyst",42395,0
+"DILLON","Analyst",44555,0
+"AMPARO","Analyst",44112,3
+"ELVA","Analyst",46029,0
+"JENA","Analyst",47134,0
+"JARRED","Analyst",47736,1
+"LUCIA","Analyst",45460,0
+"HIRAM","Senior Analyst",58872,0
+"WILLIAM","Senior Analyst",69301,4
+"BESS","Analyst",48458,1
+"EMILE","Analyst",44178,0
+"SHONDA","Analyst",46261,0
+"TONIA","Analyst",41045,0
+"TYRON","Analyst",45193,0
+"MARIA","Analyst",42853,0
+"ZELLA","Analyst",49633,0
+"NESTOR","Analyst",45306,1
+"TONY","Manager",100874,7
+"LORIE","Analyst",43909,2
+"TERESITA","Senior Analyst",53275,4
+"BETTYE","Analyst",43907,0
+"HUBERT","Analyst",43733,0
+"MAY","Analyst",47464,2
+"DANETTE","Senior Analyst",58617,5
+"HANNAH","Analyst",41636,1
+"CINDY","Analyst",42886,2
+"HERMAN","Associate",89843,4
+"TIFFANI","Analyst",47018,0
+"TERA","Analyst",40180,2
+"DALIA","Senior Analyst",55790,0
+"DENNIS","Analyst",47194,2
+"ROYAL","Analyst",44799,1
+"STEPHAN","Analyst",49609,0
+"JONAS","Analyst",48104,1
+"ARMAND","Analyst",43125,2
+"SANTO","Senior Analyst",60520,1
+"QUINN","Analyst",41124,0
+"ROWENA","Analyst",47774,0
+"GERMAINE","Analyst",47013,0
+"LOYD","Associate",93212,2
+"RODNEY","Senior Manager",185205,8
+"TERRENCE","Analyst",43777,0
+"KAREEM","Analyst",46703,0
+"SANDRA","Analyst",43189,0
+"ERROL","Analyst",48035,0
+"DOMINGO","Analyst",41866,2
+"SCOTTY","Analyst",41466,2
+"LORETTA","Associate",97684,6
+"SHANNA","Senior Analyst",59398,0
+"JAN","Analyst",46783,1
+"HENRIETTA","Analyst",48272,0
+"ALTON","Analyst",43240,0
+"TISHA","Analyst",40718,0
+"LONG","Analyst",48147,0
+"RACHEAL","Analyst",41929,0
+"TIA","Analyst",49937,0
+"LIZA","Associate",97400,6
+"RUDOLPH","Analyst",47203,1
+"GILBERTO","Senior Manager",199060,10
+"MEREDITH","Analyst",43900,0
+"WILSON","Analyst",45964,0
+"COLEMAN","Analyst",48823,2
+"REED","Analyst",43246,0
+"RYAN","Analyst",42096,1
+"LELAND","Analyst",46326,2
+"RENATO","Analyst",46367,0
+"GALEN","Analyst",43949,1
+"NOEL","Analyst",46217,1
+"JUDSON","Analyst",49140,0
+"KIRSTEN","Analyst",47109,1
+"LON","Analyst",43210,0
+"NATASHA","Analyst",40041,0
+"NAN","Analyst",43383,0
+"PAT","Associate",93279,3
+"JERROLD","Analyst",44416,1
+"EDMOND","Analyst",41741,0
+"BLANCA","Analyst",40238,2
+"LAWANDA","Analyst",43429,0
+"DUNCAN","Analyst",42830,3
+"JOLENE","Analyst",42837,1
+"KATHERYN","Senior Analyst",57169,0
+"TEODORO","Analyst",45754,1
+"MICHAL","Senior Analyst",52739,1
+"MAXINE","Analyst",48360,0
+"MICHAELA","Analyst",49610,0
+"BERNADINE","Analyst",48672,1
+"LETTIE","Analyst",41756,1
+"PORTER","Analyst",43051,0
+"JOCELYN","Analyst",42895,0
+"CORNELIUS","Senior Analyst",50524,0
+"KRISTIN","Analyst",45128,3
+"MAXWELL","Manager",129334,4
+"ELNORA","Analyst",46291,2
+"GRACIE","Analyst",42455,0
+"SYLVESTER","Associate",95039,7
+"JERRI","Analyst",49437,0
+"MERLE","Analyst",45108,0
+"RHETT","Analyst",47577,0
+"MARSHA","Associate",98323,0
+"ANASTASIA","Analyst",40780,0
+"BURL","Analyst",40001,0
+"BIRDIE","Analyst",46012,0
+"ORA","Analyst",45380,0
+"EMIL","Associate",75288,6
+"MAGGIE","Analyst",41729,0
+"BRYCE","Analyst",42376,1
+"SAMATHA","Analyst",46734,0
+"RAYFORD","Analyst",42345,0
+"GINGER","Senior Analyst",62859,3
+"FLORENCE","Analyst",41564,0
+"RACHELLE","Analyst",48808,3
+"GRACE","Analyst",42112,3
+"BEVERLY","Analyst",40310,1
+"VALENCIA","Manager",128068,10
+"MAJOR","Analyst",48587,0
+"PAMALA","Associate",89965,1
+"SEAN","Analyst",47289,3
+"THELMA","Analyst",46597,0
+"LESA","Associate",95938,2
+"MARGERY","Manager",148890,8
+"LETHA","Analyst",40551,0
+"TANA","Analyst",46127,0
+"SHIRLEY","Senior Analyst",56518,4
+"BERYL","Analyst",43096,0
+"PENELOPE","Analyst",48203,0
+"RENA","Analyst",48190,0
+"DEIRDRE","Associate",97478,4
+"MALINDA","Associate",76887,2
+"OCTAVIA","Analyst",45619,0
+"KATHRINE","Analyst",45754,2
+"DAN","Analyst",47573,2
+"FRITZ","Analyst",45485,0
+"IVORY","Senior Analyst",65806,1
+"KATINA","Analyst",48976,2
+"BUCK","Analyst",47530,2
+"PAIGE","Senior Analyst",52324,3
+"HENRY","Analyst",43563,3
+"DELBERT","Analyst",48788,0
+"VIRGINA","Analyst",48240,0
+"CLIFF","Analyst",47881,3
+"SONYA","Director",234374,17
+"CALEB","Analyst",45822,0
+"STACEY","Analyst",40318,2
+"DOYLE","Analyst",48155,0
+"MARISSA","Senior Analyst",51565,1
+"ARLEN","Analyst",40285,1
+"FREDDIE","Analyst",40929,0
+"MAURINE","Analyst",45528,0
+"VERONICA","Analyst",41203,1
+"DARLA","Analyst",42864,0
+"PATRICA","Senior Analyst",62169,1
+"SHELDON","Director",294564,13
+"KRYSTAL","Associate",92774,6
+"JOANNA","Senior Analyst",61956,0
+"BERNARDO","Analyst",44076,1
+"BONNIE","Analyst",44948,0
+"JAME","Analyst",46935,2
+"JASMIN","Analyst",41125,2
+"LAVERNE","Analyst",46151,0
+"ARRON","Senior Analyst",55885,0
+"EDDIE","Analyst",42751,0
+"AMANDA","Analyst",45487,0
+"JAN","Senior Analyst",60125,1
+"VEDA","Senior Analyst",52224,3
+"ROCKY","Analyst",42793,0
+"CRUZ","Analyst",48393,0
+"MONA","Senior Analyst",60853,4
+"BOBBIE","Analyst",44412,0
+"CLEMENTE","Analyst",45689,0
+"WILLARD","Analyst",44354,1
+"COURTNEY","Senior Analyst",68026,0
+"LENORA","Senior Analyst",56291,1
+"FRANKLYN","Analyst",47564,2
+"SHON","Analyst",45344,1
+"ANTHONY","Senior Manager",176158,10
+"BRITNEY","Analyst",46414,0
+"ADRIANA","Analyst",42962,1
+"MOHAMED","Manager",137754,6
+"KRIS","Analyst",43797,0
+"JOANNE","Analyst",44697,0
+"HELEN","Analyst",44214,0
+"GRACIE","Analyst",42455,0
+"WILMA","Analyst",43393,0
+"RUDY","Analyst",47157,1
+"LORNA","Analyst",43172,0
+"ROCHELLE","Manager",106755,7
+"LETICIA","Analyst",40902,0
+"MABLE","Analyst",40013,0
+"ANNETTE","Analyst",43162,1
+"JOSEPH","Analyst",46612,0
+"CATALINA","Analyst",47633,0
+"AUTUMN","Analyst",47039,0
+"RICKY","Analyst",48406,2
+"DUSTY","Analyst",42840,0
+"KIMBERLY","Analyst",46896,2
+"LILA","Analyst",48362,1
+"WANDA","Senior Manager",196857,10
+"CLAUDETTE","Analyst",49432,0
+"MITZI","Analyst",42672,1
+"GABRIELLE","Analyst",44373,3
+"JULIUS","Senior Analyst",69223,3
+"STACEY","Analyst",46349,1
+"ALEXANDRA","Manager",138026,4
+"SAMMIE","Analyst",44129,2
+"LAUREN","Analyst",47343,2
+"GEORGETTE","Analyst",42375,0
+"ABEL","Analyst",45083,2
+"DEVON","Analyst",44202,3
+"DEL","Senior Analyst",59124,1
+"RICH","Senior Analyst",64913,0
+"CRISTINA","Manager",129305,7
+"BEN","Analyst",47477,3
+"CARA","Senior Analyst",52287,3
+"JANET","Analyst",45527,0
+"CLAUDINE","Analyst",45769,0
+"OMAR","Senior Manager",192623,6
+"ANIBAL","Analyst",48497,0
+"DEBBY","Analyst",48007,0
+"LEO","Analyst",41900,1
+"BARNEY","Analyst",47257,2
+"GALE","Analyst",40818,0
+"EUGENE","Analyst",42981,1
+"DAMIEN","Analyst",47677,0
+"FILIBERTO","Senior Analyst",60206,2
+"MERRILL","Analyst",47439,2
+"JEWEL","Analyst",42410,2
+"JERAMY","Analyst",43194,3
+"RUBIN","Analyst",48455,2
+"GERALDINE","Senior Manager",180778,11
+"MODESTO","Associate",75024,3
+"CLARE","Analyst",40479,0
+"KRISTINE","Analyst",43436,1
+"SILVIA","Senior Analyst",63959,0
+"THERON","Senior Analyst",53517,3
+"RODOLFO","Associate",99521,0
+"KRISTINA","Analyst",42897,0
+"MEGHAN","Analyst",44742,0
+"OLIVIA","Analyst",43748,1
+"JANA","Analyst",47571,1
+"ILA","Analyst",45816,1
+"BELLA","Senior Manager",162639,9
+"WINNIE","Analyst",49470,1
+"CRISTOPHER","Analyst",48529,0
+"TRINIDAD","Analyst",43688,2
+"ALEJANDRA","Analyst",44104,0
+"GARRETT","Analyst",48295,0
+"DARLENE","Analyst",40634,1
+"BOBBI","Analyst",40486,1
+"KARINA","Analyst",45002,2
+"RACHEL","Senior Analyst",64248,4
+"VANESSA","Analyst",48831,0
+"CAREY","Associate",70154,8
+"ALDEN","Analyst",46479,0
+"MAJOR","Analyst",48587,0
+"ROBBIE","Analyst",40567,0
+"ALLISON","Analyst",42322,0
+"SYBIL","Analyst",48179,0
+"PEDRO","Analyst",48082,0
+"ORALIA","Analyst",46343,1
+"MALCOM","Analyst",49974,0
+"LOLA","Analyst",45229,0
+"JAMES","Analyst",44160,0
+"FREDRIC","Analyst",44371,0
+"JAROD","Analyst",46820,1
+"JIMMIE","Analyst",40327,0
+"BENTON","Analyst",43481,0
+"TABITHA","Analyst",42720,0
+"CYNTHIA","Senior Manager",172445,11
+"LEORA","Analyst",42839,0
+"LATISHA","Analyst",49052,1
+"ISAIAH","Senior Analyst",59481,1
+"CAROL","Analyst",47150,1
+"DELMAR","Analyst",46690,1
+"MARCELLUS","Senior Analyst",51240,3
+"CASEY","Analyst",46540,0
+"YVETTE","Analyst",45300,0
+"KRYSTLE","Analyst",44212,1
+"EVANGELINE","Analyst",45352,1
+"ALFONZO","Analyst",46071,2
+"HAI","Senior Analyst",60707,2
+"JENNA","Analyst",42129,0
+"CEDRIC","Analyst",47597,0
+"BOB","Analyst",41819,1
+"JOANNA","Senior Analyst",61956,0
+"DELMER","Analyst",46741,0
+"ERVIN","Analyst",47939,1
+"JEAN","Analyst",43036,0
+"ELROY","Associate",98716,5
+"SHELLY","Analyst",49085,0
+"CRISTY","Analyst",44681,0
+"ELISABETH","Analyst",45298,2
+"DESMOND","Analyst",40384,0
+"KEN","Senior Analyst",67458,0
+"ARLENE","Senior Manager",161799,13
+"BURT","Analyst",45099,0
+"GARRET","Analyst",44472,2
+"JANE","Analyst",46770,0
+"DAMON","Associate",86993,6
+"WILBER","Analyst",44344,1
+"MARLA","Analyst",40986,1
+"MARCI","Senior Analyst",68182,0
+"DEMETRIUS","Analyst",49955,2
+"MIRANDA","Analyst",48283,0
+"MOSE","Analyst",47859,0
+"MARA","Analyst",42666,2
+"SYLVIA","Analyst",49931,1
+"VINCENT","Analyst",41605,0
+"RUEBEN","Analyst",45927,0
+"MIGDALIA","Analyst",42263,0
+"ADRIAN","Analyst",44599,0
+"AMBROSE","Analyst",42210,2
+"DELOIS","Analyst",41109,2
+"DUSTIN","Analyst",46693,0
+"CAROLINE","Analyst",45342,1
+"FRANK","Analyst",42428,0
+"CHRISTEN","Analyst",46076,0
+"CHONG","Analyst",46064,0
+"MELBA","Analyst",46966,0
+"SHANE","Analyst",41445,2
+"COLEEN","Analyst",44598,0
+"ROSS","Senior Analyst",64137,0
+"LORRI","Associate",91920,6
+"LEIF","Analyst",46723,2
+"WALTON","Analyst",44350,0
+"RAQUEL","Analyst",41979,0
+"CORNELIUS","Senior Analyst",50524,0
+"MILDRED","Analyst",47723,2
+"LEONOR","Analyst",45926,0
+"TODD","Analyst",40040,0
+"MURIEL","Analyst",46767,2
+"LEOLA","Analyst",40886,0
+"LASHONDA","Associate",93659,5
+"ROBERTA","Analyst",44251,3
+"JANINE","Analyst",48682,0
+"DALE","Senior Analyst",66184,3
+"JUSTINA","Analyst",45379,1
+"MONICA","Senior Analyst",54749,3
+"CHARLA","Analyst",47832,0
+"FLORA","Associate",92184,4
+"JAN","Senior Analyst",60125,1
+"CAROLE","Analyst",46591,0
+"SAMMY","Analyst",45673,0
+"TIARA","Senior Manager",182134,9
+"SHERWOOD","Analyst",49636,1
+"MARYELLEN","Analyst",47376,0
+"ROBERTA","Analyst",44251,3
+"CHRISTOPER","Analyst",45502,0
+"MALCOLM","Analyst",45370,0
+"JAMI","Analyst",48426,2
+"CARLA","Analyst",43144,1
+"ROSE","Director",366063,13
+"NEAL","Senior Analyst",50266,3
+"MARQUIS","Analyst",41760,1
+"DARNELL","Analyst",48877,2
+"MAYA","Associate",96757,3
+"JACKIE","Analyst",41714,1
+"ALETHA","Senior Analyst",65552,1
+"PRINCE","Analyst",45611,2
+"CHELSEY","Senior Analyst",65267,1
+"JULIO","Senior Analyst",66184,0
+"JACK","Analyst",40732,0
+"BRENDA","Analyst",49030,0
+"QUINCY","Analyst",48018,1
+"BEATRIZ","Analyst",47104,0
+"ERIKA","Analyst",40411,1
+"GENA","Analyst",44069,1
+"LYNN","Analyst",45638,1
+"ALEXANDRIA","Analyst",49395,0
+"MARIANO","Analyst",48667,0
+"CHANDRA","Associate",84840,2
+"DUNCAN","Analyst",42830,3
+"ELYSE","Manager",124680,8
+"LATOYA","Analyst",49537,0
+"TAMELA","Analyst",40600,3
+"EZRA","Analyst",43464,0
+"RACHAEL","Analyst",43493,1
+"FERNANDO","Senior Analyst",67796,2
+"ELMO","Analyst",41863,0
+"GAIL","Senior Analyst",68996,0
+"BOBBY","Analyst",47524,0
+"NATHANAEL","Analyst",45534,3
+"FAY","Analyst",41887,0
+"GINA","Analyst",49434,0
+"GEOFFREY","Analyst",42992,0
+"WERNER","Analyst",42086,0
+"ELISEO","Analyst",44496,3
+"GAY","Analyst",48492,0
+"HOUSTON","Analyst",45062,0
+"EMANUEL","Analyst",44512,0
+"JORDAN","Analyst",45515,0
+"BRANDIE","Analyst",48762,1
+"LLOYD","Analyst",48182,0
+"LELA","Analyst",42467,0
+"JOSHUA","Analyst",43482,0
+"SIMON","Analyst",41705,0
+"HARRIET","Analyst",48751,0
+"JOAQUIN","Analyst",42475,0
+"ADAM","Analyst",47590,3
+"TONI","Analyst",46854,0
+"AUGUST","Analyst",43282,0
+"JOSIE","Analyst",42641,0
+"ELLIOTT","Analyst",49470,0
+"STEPHANIE","Analyst",48160,0
+"CARTER","Analyst",41728,0
+"CATHRYN","Analyst",44976,0
+"HUNTER","Analyst",44820,1
+"KEENAN","Analyst",43833,2
+"PEGGY","Manager",100124,5
+"LATASHA","Analyst",46572,1
+"CONCETTA","Analyst",45680,3
+"KEN","Senior Analyst",67458,0
+"EMORY","Director",225339,16
+"KRISTY","Senior Manager",195984,10
+"NELLY","Analyst",45870,1
+"KENYA","Associate",78202,3
+"KIP","Analyst",43378,0
+"DON","Analyst",43587,0
+"COLUMBUS","Analyst",46038,0
+"REFUGIO","Associate",85615,3
+"RAYFORD","Analyst",42345,0
+"TREVA","Analyst",44675,0
+"REVA","Analyst",42054,0
+"CURTIS","Associate",94026,7
+"LINCOLN","Associate",76072,8
+"CARLOS","Manager",138569,6
+"RONDA","Analyst",43990,0
+"CALVIN","Analyst",46485,2
+"ALVA","Analyst",44684,1
+"CURT","Analyst",47639,2
+"MAYME","Analyst",40417,1
+"LENORE","Senior Analyst",65090,4
+"RETHA","Analyst",48436,2
+"INGRID","Senior Analyst",56028,0
+"ADELAIDE","Director",213987,13
+"SANDI","Analyst",48934,0
+"KEVEN","Analyst",40354,0
+"CARA","Senior Analyst",52287,3
+"EILEEN","Associate",83971,8
+"LOLITA","Analyst",43066,2
+"JORDAN","Senior Manager",197526,6
+"DEIDRE","Analyst",47499,3
+"IRMA","Analyst",42122,0
+"KENDRICK","Senior Analyst",68245,0
+"DOLORES","Analyst",48661,0
+"KIM","Analyst",43433,0
+"SHERMAN","Analyst",41452,0
+"ADELINA","Senior Analyst",59877,0
+"OPHELIA","Analyst",48769,0
+"RHODA","Analyst",45221,0
+"PASQUALE","Analyst",40524,1
+"RICK","Analyst",47692,2
+"CARL","Senior Analyst",59310,3
+"ALEXA","Analyst",48849,0
+"MELBA","Analyst",46966,0
+"TRUMAN","Senior Manager",178590,14
+"ROSELLA","Analyst",45774,0
+"IRA","Manager",144095,6
+"WADE","Senior Analyst",54987,1
+"ZACHERY","Manager",118174,8
+"ANDREA","Analyst",40356,1
+"ROBT","Analyst",47755,0
+"BUFORD","Analyst",48302,1
+"REBEKAH","Senior Analyst",56004,0
+"CLINT","Associate",83197,4
+"AGNES","Analyst",49660,0
+"NOEMI","Analyst",47668,0
+"BETHANY","Associate",86413,1
+"HAYDEN","Senior Manager",158394,13
+"PATTI","Analyst",48602,1
+"LYNWOOD","Senior Analyst",52355,1
+"ROSALIE","Analyst",40704,2
+"MELANIE","Analyst",40113,1
+"CHARLEY","Analyst",47880,0
+"SCOTTIE","Analyst",43188,0
+"SASHA","Analyst",40690,1
+"PETER","Senior Analyst",53535,2
+"SUSANNA","Analyst",44448,0
+"LINO","Analyst",44149,2
+"MIGUEL","Senior Analyst",51369,2
+"LADONNA","Analyst",41668,3
+"BRET","Analyst",40727,2
+"EMERSON","Analyst",45249,0
+"JENNIFER","Analyst",41688,2
+"MARCELO","Senior Analyst",55791,2
+"KENNETH","Analyst",41467,0
+"KATY","Analyst",45230,0
+"ROSITA","Analyst",41020,0
+"KRISTI","Senior Analyst",55980,0
+"IRWIN","Senior Analyst",51423,0
+"JONATHON","Analyst",48536,1
+"CARYN","Analyst",44359,1
+"BARBARA","Manager",120988,5
+"DUDLEY","Senior Analyst",57569,4
+"DANNA","Analyst",43343,1
+"JERMAINE","Analyst",47072,0
+"DUANE","Analyst",46074,0
+"IGNACIO","Senior Manager",193319,10
+"MINERVA","Senior Manager",151903,12
+"TAMIKA","Analyst",45514,1
+"LILIANA","Analyst",48722,3
+"KERRY","Analyst",45522,0
+"GENEVIEVE","Analyst",46776,1
+"ERIN","Analyst",46779,2
+"FRED","Analyst",48752,0
+"CLINTON","Analyst",41950,1
+"CARMELO","Senior Analyst",57923,1
+"MELINDA","Analyst",48413,0
+"JORGE","Manager",135210,4
+"BECKY","Analyst",47250,2
+"HOLLY","Analyst",43472,0
+"SUMMER","Associate",96876,4
+"STACY","Analyst",48180,1
+"MARLIN","Associate",80367,8
+"GARY","Analyst",48070,0
+"NITA","Manager",140823,11
+"BARTON","Analyst",41416,0
+"HERSCHEL","Manager",132054,5
+"JOHNNIE","Analyst",42280,1
+"JAMEY","Analyst",45464,2
+"JOHNATHON","Analyst",45761,2
+"SHELBY","Associate",72237,2
+"MILLIE","Senior Analyst",51441,4
+"JUNE","Analyst",46540,0
+"LAVONNE","Analyst",45963,1
+"ELTON","Senior Manager",190626,13
+"TERRELL","Analyst",48650,0
+"ALTA","Analyst",42250,0
+"LILY","Senior Analyst",64060,1
+"LESLEY","Analyst",42627,0
+"PIERRE","Analyst",41487,0
+"CHAS","Analyst",40985,2
+"HILTON","Analyst",46247,0
+"LEAH","Analyst",43681,0
+"EDWARDO","Analyst",43161,0
+"ELLEN","Associate",70589,0
+"BERT","Senior Analyst",52533,1
+"TANNER","Analyst",42473,0
+"MADELEINE","Analyst",41726,0
+"BRANDI","Analyst",45674,2
+"AUGUSTA","Analyst",48225,0
+"CLAYTON","Analyst",43414,0
+"RODGER","Associate",81901,6
+"JEWELL","Analyst",48122,1
+"SALVATORE","Analyst",41657,0
+"ADELA","Analyst",40485,0
+"LOLITA","Analyst",43066,2
+"ALEC","Analyst",45836,0
+"AHMED","Analyst",43168,0
+"ERIN","Analyst",48467,0
+"TONYA","Analyst",45696,1
+"ELWOOD","Analyst",47719,0
+"EARL","Analyst",41290,0
+"ALICIA","Analyst",46550,0
+"VADA","Analyst",48263,3
+"DARRON","Analyst",46312,0
+"MORRIS","Analyst",48854,0
+"ISAIAS","Senior Analyst",52567,0
+"ARTURO","Analyst",49095,1
+"ALEXIS","Analyst",47248,0
+"BRANDEN","Analyst",44364,0
+"TYREE","Analyst",44610,0
+"VALENTINE","Analyst",48482,0
+"BRANT","Manager",121962,7
+"TOM","Analyst",48305,0
+"GUILLERMO","Analyst",41194,3
+"PRISCILLA","Analyst",49748,3
+"ROXIE","Senior Analyst",58566,5
+"SALLIE","Senior Analyst",50687,5
+"ISIDRO","Director",301872,15
+"DAVE","Senior Analyst",66227,1
+"BRIDGET","Analyst",46105,0
+"ALVARO","Senior Analyst",51055,2
+"SANDY","Senior Manager",197900,14
+"FAITH","Analyst",42221,2
+"ERICK","Analyst",41308,1
+"ELENA","Analyst",45374,1
+"VELMA","Senior Analyst",59115,0
+"COLTON","Analyst",42897,2
+"ALANA","Analyst",48046,0
+"OLLIE","Senior Analyst",57182,3
+"HEATHER","Analyst",44997,0
+"JAMAR","Analyst",40787,0
+"GEORGE","Associate",71488,1
+"LUCIO","Senior Analyst",51377,0
+"STERLING","Analyst",45528,0
+"GLADYS","Analyst",43740,0
+"OLLIE","Analyst",43681,1
+"LETA","Director",236901,11
+"MILLICENT","Senior Analyst",57064,0
+"HAROLD","Analyst",44448,3
+"LAURA","Analyst",49141,0
+"CEDRICK","Analyst",45589,1
+"RICARDO","Analyst",42055,1
+"DALTON","Analyst",46640,0
+"VAUGHN","Analyst",43385,0
+"ISIAH","Analyst",40567,1
+"JASMINE","Analyst",43932,0
+"DARRELL","Analyst",41386,2
+"MAI","Analyst",42240,0
+"HALLIE","Analyst",41257,0
+"ROCKY","Analyst",42793,0
+"CINDI","Associate",74929,6
+"GRISELDA","Analyst",46509,2
+"BLANCHE","Analyst",48082,2
+"ISABELLA","Analyst",43710,1
+"MANUEL","Analyst",43464,2
+"WALLACE","Associate",84058,1
+"LINDA","Analyst",47029,0
+"MARITZA","Analyst",49634,0
+"MILES","Analyst",41357,2
+"ERMA","Analyst",45349,0
+"CHASE","Analyst",42306,1
+"MARGO","Analyst",48860,0
+"DENISE","Analyst",48923,2
+"TAWANA","Associate",82388,4
+"ALI","Analyst",40992,0
+"BONITA","Director",324783,19
+"ROSIE","Analyst",49901,0
+"DAVID","Analyst",43176,2
+"GABRIELA","Analyst",41132,0
+"MILFORD","Analyst",42624,0
+"CLAY","Analyst",42136,0
+"SOFIA","Analyst",43308,0
+"JAYNE","Senior Analyst",50492,3
+"LAUREN","Analyst",40698,0
+"NOE","Analyst",46788,2
+"BENNY","Analyst",40246,0
+"DANE","Analyst",45957,0
+"JENNY","Analyst",42952,1
+"RHEA","Analyst",47266,1
+"AVIS","Senior Analyst",56552,2
+"JIM","Manager",105657,7
+"SOL","Analyst",48572,0
+"ERIK","Analyst",48414,1
+"ALANA","Analyst",48046,0
+"ERWIN","Analyst",42144,2
+"BERNIE","Analyst",44044,0
+"ELVIS","Analyst",48695,0
+"VENUS","Analyst",42395,0
+"WILBERT","Manager",100764,7
+"ROXANA","Manager",142291,9
+"PAIGE","Senior Analyst",52324,3
+"MURRAY","Analyst",48776,2
+"STACI","Analyst",43063,1
+"MARGARITO","Senior Analyst",58290,0
+"ADRIAN","Analyst",45054,0
+"ASHLEE","Analyst",43272,2
+"SYDNEY","Analyst",43260,1
+"TOBIAS","Analyst",42237,1
+"NIKKI","Senior Analyst",58366,2
+"PHOEBE","Analyst",46351,2
+"JESSICA","Analyst",41381,0
+"VIRGIE","Analyst",45704,1
+"LYDIA","Associate",97161,0
+"ALBERTO","Senior Analyst",67194,0
+"ANGEL","Analyst",42303,1
+"ETTA","Analyst",44919,0
+"VINCENZO","Associate",92590,3
+"MAGDALENA","Analyst",48841,1
+"MARCO","Senior Analyst",60987,0
+"THEO","Senior Analyst",56926,0
+"ANTONIA","Analyst",40684,0
+"BASIL","Senior Manager",170971,8
+"IVY","Analyst",48511,0
+"ELIA","Analyst",40271,0
+"MICHALE","Analyst",42805,1
+"DEANDRE","Analyst",48030,0
+"LESLIE","Analyst",48730,0
+"COREY","Analyst",44638,0
+"GRACIELA","Analyst",43592,2
+"RETA","Senior Analyst",52704,0
+"JULES","Senior Analyst",62533,0
+"CRISTINA","Manager",129305,7
+"GUILLERMINA","Analyst",41144,0
+"RAFAELA","Analyst",48025,0
+"GEOFFREY","Analyst",42992,0
+"ALLIE","Analyst",45621,0
+"NEVA","Analyst",43453,1
+"PILAR","Analyst",48042,2
+"ELINOR","Director",225412,15
+"LOURDES","Associate",88029,6
+"DOUGLASS","Analyst",43418,2
+"LEA","Analyst",49968,2
+"ZOILA","Senior Analyst",62791,0
+"GUS","Analyst",40403,1
+"CARMELO","Senior Analyst",57923,1
+"ROYAL","Analyst",44799,1
+"ARACELI","Senior Analyst",66747,5
+"FLORENTINO","Analyst",41955,0
+"RAMONA","Analyst",41962,0
+"WILDA","Analyst",48240,0
+"TRENTON","Analyst",45631,0
+"MIA","Associate",94962,1
+"JADE","Analyst",45371,0
+"GIL","Analyst",41888,1
+"ZANE","Analyst",42822,0
+"MARIANNE","Analyst",43900,1
+"TRACEY","Analyst",47588,2
+"DIONNE","Analyst",43818,1
+"LOUIS","Associate",75507,5
+"ROSETTA","Analyst",49822,1
+"LUCIANO","Senior Analyst",64540,0
+"INA","Analyst",41720,0
+"WILLIAM","Analyst",40900,0
+"GINO","Analyst",42925,0
+"DANTE","Senior Analyst",66540,1
+"MATTIE","Analyst",41394,0
+"OLGA","Analyst",44946,2
+"LILLY","Analyst",49624,0
+"NEWTON","Analyst",47590,0
+"SHARI","Senior Analyst",60155,4
+"CATHERINE","Analyst",49296,0
+"BERTHA","Analyst",45729,1
+"RON","Analyst",48682,0
+"DEENA","Senior Analyst",51184,2
+"GRAIG","Senior Analyst",53602,1
+"PAUL","Analyst",49976,1
+"WHITNEY","Analyst",40312,0
+"CHRISTAL","Analyst",46325,0
+"PHIL","Analyst",41930,0
+"KENNITH","Analyst",42289,1
+"JOHNNY","Analyst",45748,2
+"EDDIE","Analyst",41273,0
+"JERE","Analyst",44391,0
+"CLARISSA","Analyst",47051,2
+"PETRA","Senior Manager",176567,9
+"EVANGELINA","Manager",123504,9
+"KATRINA","Analyst",48789,0
+"CHLOE","Analyst",42760,0
+"KASEY","Analyst",48451,1
+"VALERIA","Analyst",49310,1
+"RUBY","Senior Manager",190414,9
+"DORETHA","Analyst",42538,0
+"JOSEF","Analyst",49469,2
+"REBECA","Analyst",41457,0
+"WILFORD","Analyst",47534,0
+"SHAD","Analyst",47658,0
+"MARK","Manager",139615,6
+"LAWERENCE","Analyst",44103,0
+"JULIO","Senior Analyst",66184,0
+"MICAH","Analyst",41694,0
+"KATHI","Analyst",45185,0
+"MERRY","Analyst",44938,1
+"MIQUEL","Analyst",41546,1
+"KRISTIE","Associate",86548,3
+"HARRISON","Analyst",42056,0
+"ELIDA","Analyst",49190,2
+"JASON","Analyst",45716,0
+"JOHANNA","Associate",77015,2
+"HAL","Analyst",42527,1
+"JACQULINE","Director",355337,12
+"HANNA","Analyst",43354,1
+"GERMAN","Senior Manager",170611,8
+"RICHARD","Analyst",47893,2
+"DEANNE","Analyst",46808,2
+"JULIA","Analyst",45815,0
+"LEONARDO","Manager",103289,11
+"GASTON","Analyst",44025,2
+"GAYLE","Analyst",44005,0
+"CELINA","Manager",119570,4
+"EFFIE","Associate",92350,5
+"JOAN","Analyst",46791,1
+"SHAWNA","Manager",143778,6
+"RUSSEL","Analyst",48948,0
+"LACY","Analyst",48223,0
+"LAVERNE","Analyst",40149,1
+"CORY","Analyst",47674,0
+"FLORINE","Analyst",48939,0
+"DEANN","Analyst",44100,0
+"NELDA","Senior Analyst",58051,2
+"TARYN","Analyst",47877,0
+"EDWARD","Analyst",46157,0
+"LORI","Analyst",42047,0
+"BREANNA","Analyst",46999,0
+"VERNA","Analyst",45131,0
+"ELOISE","Analyst",46862,0
+"TILLIE","Analyst",49015,1
+"YONG","Associate",80173,2
+"JACKIE","Analyst",43113,0
+"MARCELINO","Associate",86669,5
+"EMERY","Analyst",40397,0
+"LOTTIE","Analyst",44694,0
+"RICHIE","Associate",97946,5
+"ROBIN","Analyst",41396,1
+"ABRAHAM","Analyst",42280,1
+"DIANNA","Senior Analyst",61390,4
+"VERDA","Analyst",43310,1
+"NEIL","Senior Analyst",60522,2
+"ANGEL","Analyst",45081,2
+"YOUNG","Manager",144332,6
+"ARIEL","Analyst",49576,0
+"BRANDY","Analyst",40329,1
+"DANA","Analyst",41781,2
+"LYNN","Analyst",49522,2
+"FELIX","Senior Analyst",61046,1
+"LAURENCE","Senior Analyst",65656,3
+"NATALIA","Analyst",49949,1
+"MARGARITA","Analyst",40161,2
+"LILLIE","Analyst",42052,1
+"PRICILLA","Analyst",45722,0
+"CLIFTON","Associate",78615,3
+"ELDRIDGE","Analyst",40565,1
+"JARED","Analyst",46662,0
+"ROXANNA","Senior Manager",190850,11
+"CARY","Analyst",40752,1
+"LIDIA","Analyst",41988,1
+"ALYSSA","Analyst",43328,2
+"SETH","Senior Analyst",58848,2
+"RAYMON","Analyst",44718,0
+"MEL","Analyst",40231,3
+"JANEL","Senior Analyst",54475,0
+"BRANDY","Analyst",40329,1
+"NOBLE","Analyst",40085,0
+"TERENCE","Senior Analyst",52198,4
+"LANE","Analyst",49666,0
+"THURMAN","Analyst",45277,0
+"IVA","Analyst",44002,2
+"MATILDA","Analyst",45621,0
+"CHASITY","Analyst",40578,1
+"BROCK","Analyst",42879,0
+"ARNOLD","Analyst",40095,0
+"EARLENE","Analyst",49364,0
+"GWEN","Analyst",46078,0
+"TYLER","Senior Analyst",58428,0
+"JERI","Analyst",40043,1
+"CHRISTIE","Analyst",41193,0
+"DIANE","Analyst",49045,1
+"CHANTEL","Analyst",47291,0
+"VAL","Analyst",45296,2
+"GILLIAN","Analyst",44281,0
+"KAITLIN","Senior Analyst",51655,4
+"AIDA","Senior Analyst",50605,0
+"JOSEPH","Analyst",46612,0
+"DION","Analyst",48858,0
+"DORTHY","Senior Analyst",57783,0
+"EDISON","Senior Analyst",61413,3
+"IRWIN","Senior Analyst",51423,0
+"BRADLY","Analyst",43074,2
+"DANIEL","Analyst",46659,0
+"ESTELLE","Analyst",43893,1
+"LANCE","Analyst",40526,0
+"LOUISA","Analyst",48903,3
+"LINDSEY","Manager",130328,4
+"QUEEN","Analyst",43886,0
+"NANCY","Analyst",49868,0
+"ANNETTA","Analyst",43964,1
+"LUISA","Analyst",45721,0
+"NORBERTO","Analyst",44738,1
+"ANNEMARIE","Analyst",41365,0
+"GRANT","Analyst",41159,0
+"MARIA","Analyst",43328,0
+"MELISSA","Analyst",40219,1
+"ROBERT","Analyst",41718,0
+"ALLENE","Analyst",41304,0
+"FIDEL","Analyst",42012,0
+"AILEEN","Analyst",41619,2
+"GUADALUPE","Analyst",48976,0
+"SADIE","Analyst",46224,0
+"NILDA","Analyst",41144,0
+"GERARD","Analyst",44850,0
+"SONYA","Director",234374,17
+"VESTA","Analyst",48279,0
+"CORINA","Analyst",47061,0
+"NELSON","Analyst",47422,0
+"DONOVAN","Analyst",44602,0
+"MELODY","Analyst",40288,3
+"DAREN","Senior Analyst",63156,4
+"ORA","Analyst",45380,0
+"KRAIG","Analyst",49896,0
+"KARYN","Analyst",46427,0
+"HOPE","Analyst",44795,2
+"KISHA","Analyst",49183,1
+"CHI","Analyst",48042,2
+"NORMAN","Analyst",46126,1
+"ANGELINE","Analyst",40946,2
+"MELANIE","Analyst",40113,1
+"ROBIN","Analyst",48808,0
+"JOHNSON","Analyst",46956,3
+"GUADALUPE","Analyst",43201,0
+"IVAN","Senior Analyst",61368,0
+"VON","Analyst",47890,1
+"ODESSA","Associate",71816,4
+"LEN","Analyst",44182,2
+"TAMMY","Analyst",49466,2
+"JIMMY","Analyst",40927,2
+"BENEDICT","Manager",110064,9
+"BARBRA","Analyst",41904,1
+"OTTO","Associate",99505,1
+"DALLAS","Analyst",49980,0
+"ESSIE","Analyst",42277,0
+"SAM","Analyst",47500,0
+"DONNA","Analyst",49785,0
+"DONTE","Analyst",45319,0
+"AUBREY","Analyst",45329,1
+"JUSTINE","Analyst",42214,3
+"CARMELA","Analyst",41225,0
+"BRADY","Analyst",47143,1
+"VICKY","Analyst",43064,0
+"WILL","Analyst",41277,0
+"ENID","Analyst",47458,0
+"ERICA","Analyst",41608,0
+"FELICITA","Senior Analyst",60352,0
+"ALISSA","Analyst",44988,0
+"SUSIE","Analyst",46004,1
+"CARROLL","Analyst",46386,1
+"TOMAS","Analyst",41135,2
+"WILLIE","Manager",147110,10
+"DOROTHEA","Associate",88069,3
+"AARON","Analyst",41146,0
+"RORY","Senior Analyst",50084,1
+"MILAGROS","Analyst",46519,2
+"FREDERIC","Analyst",40438,0
+"ELINOR","Director",225412,15
+"JANNA","Associate",94836,6
+"EARNESTINE","Senior Analyst",66244,0
+"JANICE","Analyst",46823,1
+"GRAHAM","Analyst",49706,2
+"ERNEST","Associate",75780,5
+"COLBY","Analyst",43295,2
+"KATHIE","Analyst",43902,0
+"KAY","Director",270193,15
+"BELINDA","Analyst",49766,3
+"MARINA","Analyst",45000,0
+"REGINALD","Analyst",47691,1
+"LEWIS","Senior Analyst",69966,2
+"RUPERT","Analyst",41679,1
+"ANTON","Analyst",42466,2
+"TASHA","Analyst",44366,3
+"RAYMOND","Analyst",48098,2
+"JONI","Analyst",42225,0
+"FRANCIS","Associate",70567,2
+"MYRTLE","Senior Analyst",57497,1
+"TED","Senior Analyst",54573,0
+"SONIA","Analyst",45525,0
+"JACINTO","Associate",76494,2
+"MARIBEL","Analyst",48177,0
+"LENARD","Analyst",49866,2
+"BRIAN","Associate",79118,6
+"CHAUNCEY","Analyst",46043,1
+"GUSTAVO","Manager",114239,7
+"ELISHA","Analyst",48353,1
+"MACK","Analyst",46644,0
+"ZACHARIAH","Analyst",41071,2
+"MELLISSA","Senior Analyst",60307,0
+"LIBBY","Manager",103640,6
+"STANLEY","Senior Analyst",60394,1
+"RORY","Senior Analyst",50084,1
+"TERRY","Analyst",41353,0
+"WINSTON","Senior Analyst",59182,5
+"JOY","Analyst",40820,1
+"BUDDY","Analyst",42828,0
+"JEFFREY","Analyst",46137,0
+"STACY","Analyst",46306,0
+"JEREMIAH","Analyst",41942,2
+"ROSANNE","Analyst",46669,0
+"CONRAD","Analyst",48363,3
+"LUCIEN","Manager",128247,6
+"QUENTIN","Analyst",48015,0
+"ZACHARY","Senior Analyst",55455,0
+"BERTRAM","Analyst",42735,1
+"MEAGAN","Analyst",41956,3
+"WARNER","Analyst",48868,0
+"MARION","Analyst",46623,1
+"JOHNNIE","Analyst",47899,2
+"DEANNE","Analyst",46808,2
+"GERALDO","Analyst",40188,0
+"RAMIRO","Associate",91602,7
+"HAYDEE","Analyst",49048,0
+"LAZARO","Analyst",41412,2
+"CHRISTOPHER","Analyst",41951,1
+"DENA","Analyst",45896,2
+"JONATHAN","Analyst",45597,2
+"TARA","Senior Manager",151373,16
+"LAMONT","Senior Analyst",65596,1
+"FRANCESCO","Analyst",42494,3
+"LOWELL","Analyst",41312,1
+"STELLA","Analyst",48555,0
+"LEVI","Analyst",49632,0
+"TONEY","Associate",89791,3
+"MATILDE","Analyst",44886,0
+"BARRETT","Analyst",40886,1
+"FRANCISCO","Senior Analyst",65383,0
+"LAKEISHA","Director",320148,18
+"ELMA","Analyst",48696,0
+"SAMUEL","Analyst",47701,1
+"FRANKIE","Director",232682,15
+"EDWARD","Analyst",46157,0
+"THERESE","Analyst",42747,0
+"ALDO","Analyst",46170,0
+"EMORY","Director",225339,16
+"LINDSAY","Analyst",45997,0
+"NELL","Analyst",48962,0
+"TRINA","Analyst",42847,0
+"DARELL","Analyst",40704,2
+"ELLSWORTH","Senior Analyst",61867,5
+"ZOE","Analyst",48067,0
+"ROCCO","Analyst",48939,1
+"KATE","Analyst",41230,0
+"VEDA","Senior Analyst",52224,3
+"LILLY","Analyst",49624,0
+"BETSY","Analyst",45561,0
+"CLAUDIA","Analyst",41449,0
+"HUEY","Associate",93073,2
+"BRIDGETTE","Analyst",42625,0
+"MELVA","Analyst",47458,0
+"REINALDO","Analyst",43070,0
+"ANITA","Analyst",40431,0
+"TY","Manager",141477,9
+"CHRISTIAN","Analyst",45555,2
+"JACOB","Senior Analyst",58745,2
+"LIZ","Analyst",41580,3
+"JAMES","Analyst",45739,1
+"BRYANT","Director",218098,11
+"MAN","Analyst",40935,2
+"JUANA","Analyst",41310,2
+"GARRY","Senior Analyst",52071,0
+"MEGAN","Analyst",44594,2
+"RAYMUNDO","Analyst",49957,0
+"BRIANNA","Analyst",48993,0
+"TINA","Associate",89043,5
+"LYNNE","Associate",96276,3
+"CALLIE","Analyst",47904,0
+"SHAYNE","Senior Manager",177587,8
+"JOHN","Analyst",43628,0
+"TAMRA","Senior Analyst",60827,0
+"BERTRAM","Analyst",42735,1
+"VIOLET","Analyst",49592,0
+"GROVER","Analyst",48331,0
+"MITCH","Senior Analyst",68604,5
+"DONNY","Associate",71026,6
+"ERICH","Analyst",47014,0
+"AMADO","Analyst",41329,0
+"HARRIS","Manager",129107,6
+"IOLA","Analyst",43714,1
+"DOREEN","Analyst",40031,0
+"MANDI","Analyst",44739,0
+"ISREAL","Analyst",49499,2
+"ZACKARY","Senior Analyst",53988,0
+"WILLA","Associate",99412,7
+"KRISTEN","Analyst",46071,0
+"FRANCES","Analyst",47148,0
+"TUAN","Analyst",43007,0
+"ERNIE","Analyst",46469,0
+"EDWIN","Manager",100952,5
+"MASON","Analyst",48114,2
+"CHRYSTAL","Senior Analyst",58736,0
+"ROSALYN","Analyst",42037,1
+"CELESTE","Analyst",46350,2
+"KIRK","Analyst",44538,1
+"KATIE","Senior Analyst",68319,0
+"LINWOOD","Senior Analyst",65324,2
+"DENIS","Analyst",45042,0
+"HERBERT","Analyst",47305,0
+"TESSA","Analyst",43776,0
+"ARTHUR","Analyst",41621,0
+"GLENN","Analyst",43542,0
+"BEATRICE","Associate",92074,7
+"ELIZA","Senior Analyst",50813,0
+"ELSA","Analyst",45735,0
+"LESLIE","Analyst",44767,0
+"VERA","Analyst",45429,2
+"ROSLYN","Analyst",41786,1
+"BERTA","Analyst",47143,0
+"KERI","Analyst",47286,2
+"CRYSTAL","Analyst",47892,0
+"KOREY","Analyst",41250,0
+"KAITLYN","Analyst",41953,0
+"DELORIS","Analyst",46244,0
+"BERTIE","Associate",87011,6
+"AUBREY","Analyst",49529,1
+"MAXIMO","Analyst",46752,0
+"SANTIAGO","Analyst",45402,1
+"JANELL","Analyst",41142,0
+"LILY","Senior Analyst",64060,1
+"JACKLYN","Analyst",48221,0
+"CARLENE","Manager",102996,4
+"EUGENIO","Senior Analyst",60990,3
+"DONA","Associate",91767,6
+"RODRIGO","Analyst",45781,0
+"OREN","Analyst",48049,0
+"MAUREEN","Analyst",49368,1
+"FANNY","Associate",88400,6
+"WOODROW","Associate",94321,4
+"ROXIE","Senior Analyst",58566,5
+"BARB","Analyst",45411,0
+"MARCIE","Analyst",48612,1
+"MELLISA","Senior Analyst",64108,4
+"ROSELLA","Analyst",45774,0
+"ALVIN","Analyst",48198,0
+"DEAN","Associate",86942,2
+"MARIO","Analyst",46471,1
+"RENITA","Analyst",44649,1
+"URSULA","Senior Analyst",54048,3
+"SAMUAL","Analyst",45217,1
+"ANTONE","Director",324129,16
+"ARDEN","Analyst",40570,1
+"PHILIP","Analyst",45011,2
+"DINA","Analyst",47547,0
+"JAMIE","Analyst",49798,0
+"SHIELA","Analyst",44824,0
+"AMELIA","Analyst",41192,0
+"BLAIR","Analyst",46295,1
+"PAM","Analyst",47135,1
+"CLETUS","Analyst",41845,1
+"KYLE","Senior Analyst",52678,0
+"LORRAINE","Analyst",44039,3
+"DARRIN","Associate",83947,3
+"NANETTE","Analyst",49173,3
+"CESAR","Analyst",40340,0
+"TED","Senior Analyst",54573,0
+"LOREN","Analyst",49032,0
+"EMMETT","Senior Analyst",58638,1
+"HARRIETT","Senior Analyst",52225,0
+"ADRIENNE","Analyst",40980,0
+"JOSIAH","Analyst",45335,0
+"MORGAN","Analyst",41593,0
+"BRYAN","Analyst",43910,2
+"FOREST","Senior Analyst",66563,0
+"HALEY","Analyst",45573,0
+"DICK","Analyst",46241,0
+"EVAN","Analyst",44892,1
+"MANDY","Analyst",41312,1
+"LENNY","Analyst",45099,0
+"AMALIA","Manager",128265,11
+"ANGIE","Analyst",49710,0
+"AUDREY","Analyst",43307,0
+"CARRIE","Analyst",40357,0
+"MALCOM","Analyst",49974,0
+"JEANNINE","Analyst",48817,2
+"CARISSA","Analyst",45392,0
+"BRENDAN","Analyst",46566,1
+"ROSEANNE","Analyst",47336,0
+"EDNA","Associate",96410,6
+"BRYON","Analyst",49878,0
+"MERLE","Analyst",45147,0
+"TAMEKA","Analyst",45645,0
+"CLEVELAND","Analyst",46064,2
+"DORA","Analyst",43288,0
+"ELLIE","Analyst",40208,0
+"MAURO","Analyst",42070,3
+"ALBERT","Analyst",49577,0
+"REX","Senior Analyst",56112,0
+"MINH","Analyst",46762,1
+"KIRA","Analyst",44323,0
+"JAE","Senior Manager",153769,8
+"TIM","Analyst",40762,0
+"DELILAH","Analyst",49567,2
+"SUSANA","Senior Analyst",65810,5
+"LATRICE","Associate",99311,5
+"SARAH","Analyst",43495,0
+"SOLEDAD","Analyst",40073,2
+"LUKE","Analyst",49380,0
+"VICENTE","Senior Analyst",64480,2
+"STEFAN","Analyst",49549,0
+"LESTER","Analyst",46369,1
+"IMOGENE","Analyst",46488,3
+"ANDRE","Analyst",49101,1
+"RASHAD","Analyst",41895,1
+"HORACE","Analyst",40786,2
+"LASHAWN","Analyst",48957,3
+"LUPE","Analyst",49271,0
+"WILBURN","Manager",139380,4
+"ALLAN","Senior Manager",189435,10
+"EARNESTINE","Senior Analyst",66244,0
+"ZELDA","Analyst",47229,2
+"EVERETTE","Analyst",47747,3
+"FLOYD","Analyst",47348,0
+"SOLOMON","Analyst",44163,0
+"MARGIE","Associate",78556,5
+"VILMA","Analyst",46984,0
+"LEROY","Analyst",45435,2
+"WADE","Senior Analyst",54987,1
+"AURELIO","Analyst",47301,0
+"CASEY","Analyst",42428,1
+"ELMER","Analyst",49654,1
+"FAUSTO","Analyst",42266,0
+"CRISTOBAL","Analyst",47781,0
+"AUGUSTUS","Associate",70823,0
+"EMMETT","Senior Analyst",58638,1
+"EDMUNDO","Analyst",48266,0
+"MARSHALL","Analyst",45776,1
+"CECILE","Senior Analyst",69841,0
+"CARMELLA","Director",368887,13
+"OTHA","Analyst",41454,1
+"JEANIE","Analyst",49799,0
+"ADELAIDE","Director",213987,13
+"CONSUELO","Associate",95768,2
+"MONTY","Analyst",47993,2
+"ROOSEVELT","Analyst",45100,1
+"MATTHEW","Analyst",45797,0
+"GUY","Analyst",46098,0
+"CARSON","Analyst",41854,0
+"CHONG","Analyst",41250,0
+"JEROLD","Manager",108931,10
+"JEWELL","Manager",112363,7
+"MANUELA","Analyst",41037,0
+"WILLIAN","Analyst",49730,3
+"ASHLEY","Associate",88281,2
+"DOLLY","Analyst",49725,0
+"MAURICIO","Senior Analyst",69877,5
+"LATONYA","Manager",139804,7
+"JARVIS","Analyst",41531,2
+"RHONDA","Analyst",45082,1
+"LOU","Analyst",49904,0
+"CECELIA","Analyst",43905,0
+"CARRIE","Analyst",40357,0
+"CHARMAINE","Analyst",41147,2
+"ENOCH","Analyst",40086,0
+"PEARLIE","Analyst",49734,3
+"OLA","Senior Analyst",51277,2
+"DAMIAN","Analyst",40065,1
+"EDWINA","Analyst",40707,1
+"ART","Analyst",49913,0
+"MELISA","Analyst",43534,0
+"SABRINA","Senior Manager",195985,10
+"ROMEO","Analyst",41052,1
+"MARI","Analyst",40720,0
+"ATHENA","Analyst",45351,0
+"PERCY","Associate",77218,6
+"GILBERT","Analyst",40882,0
+"KARIN","Analyst",44318,1
+"GRETA","Associate",96322,5
+"BARRY","Analyst",49322,0
+"KRISTAL","Senior Manager",187837,11
+"DEE","Senior Analyst",51566,2
+"LINDSEY","Analyst",43418,0
+"HUGO","Senior Analyst",68079,2
+"LAMAR","Analyst",44146,0
+"TREVOR","Analyst",40343,0
+"KELLEY","Analyst",45358,0
+"ROYCE","Analyst",48651,1
+"HANK","Senior Analyst",61235,0
+"CASSIE","Analyst",40319,0
+"DANILO","Analyst",47558,0
+"JAMIE","Senior Manager",194701,8
+"JESUS","Analyst",45680,0
+"REGINA","Analyst",43984,2
+"GARFIELD","Analyst",40800,1
+"TYSON","Analyst",46310,0
+"SHEREE","Analyst",49559,2
+"KELSEY","Analyst",44054,0
+"CLARK","Analyst",41222,0
+"ALPHONSE","Senior Manager",154120,12
+"ALTHEA","Analyst",42250,0
+"KYLIE","Analyst",49075,2
+"TERRANCE","Analyst",49217,2
+"SHERRY","Senior Analyst",56733,4
+"LONA","Associate",86705,8
+"ANTONIO","Analyst",43228,0
+"LESSIE","Senior Analyst",52370,0
+"GERRY","Associate",94345,5
+"MAMIE","Analyst",46432,0
+"DINAH","Analyst",44599,1
+"KELLIE","Analyst",42418,0
+"LINA","Analyst",41498,0
+"WINIFRED","Analyst",41515,0
+"JEANNA","Analyst",48541,2
+"HATTIE","Senior Analyst",66661,2
+"KENDRA","Analyst",44676,0
+"MOLLY","Analyst",41378,0
+"PATRICIA","Analyst",42369,0
+"AUDRA","Analyst",42662,0
+"JC","Analyst",41760,0
+"JOSPEH","Analyst",45364,0
+"FRANCES","Analyst",49892,0
+"LEE","Analyst",49617,0
+"ROBYN","Analyst",42877,1
+"DREW","Analyst",48866,0
+"RICKIE","Analyst",47849,2
+"ELVIA","Analyst",44424,0
+"BILLY","Analyst",43884,1
+"ALENE","Analyst",40277,2
+"KATHERINE","Senior Manager",185977,10
+"LOUISE","Analyst",45758,0
+"RENEE","Analyst",47315,0
+"TERI","Analyst",45172,1
+"GREGORY","Analyst",49176,2
+"TOMASA","Analyst",44570,2
+"Lauren","Analyst",43835,0
+"Lauren","Analyst",43835,0
+"Lauren","Analyst",43835,0
